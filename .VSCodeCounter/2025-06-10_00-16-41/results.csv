@@ -1,0 +1,517 @@
+"filename", "language", "TypeScript", "JSON with Comments", "JSON", "TypeScript JSX", "Markdown", "PostCSS", "XML", "HTML", "comment", "blank", "total"
+"e:\dowload 2\MyGameMPFE\mygamefe\README.md", "Markdown", 0, 0, 0, 0, 26, 0, 0, 0, 0, 21, 47
+"e:\dowload 2\MyGameMPFE\mygamefe\package-lock.json", "JSON", 0, 0, 16228, 0, 0, 0, 0, 0, 0, 1, 16229
+"e:\dowload 2\MyGameMPFE\mygamefe\package.json", "JSON", 0, 0, 77, 0, 0, 0, 0, 0, 0, 0, 77
+"e:\dowload 2\MyGameMPFE\mygamefe\public\index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 20, 23, 1, 44
+"e:\dowload 2\MyGameMPFE\mygamefe\public\manifest.json", "JSON", 0, 0, 25, 0, 0, 0, 0, 0, 0, 1, 26
+"e:\dowload 2\MyGameMPFE\mygamefe\src\App.css", "PostCSS", 0, 0, 0, 0, 0, 0, 0, 0, 38, 1, 39
+"e:\dowload 2\MyGameMPFE\mygamefe\src\App.test.tsx", "TypeScript JSX", 0, 0, 0, 8, 0, 0, 0, 0, 0, 2, 10
+"e:\dowload 2\MyGameMPFE\mygamefe\src\App.tsx", "TypeScript JSX", 0, 0, 0, 331, 0, 0, 0, 0, 45, 5, 381
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\AddVariantsModal\AddVariantsModal.tsx", "TypeScript JSX", 0, 0, 0, 56, 0, 0, 0, 0, 0, 6, 62
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\AdminError\AdminError.tsx", "TypeScript JSX", 0, 0, 0, 19, 0, 0, 0, 0, 0, 3, 22
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientCarousel\ClientCarousel.tsx", "TypeScript JSX", 0, 0, 0, 109, 0, 0, 0, 0, 1, 9, 119
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientError\ClientError.tsx", "TypeScript JSX", 0, 0, 0, 29, 0, 0, 0, 0, 0, 3, 32
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientFooter\ClientFooter.tsx", "TypeScript JSX", 0, 0, 0, 180, 0, 0, 0, 0, 0, 8, 188
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientHeader\CategoryMenu.tsx", "TypeScript JSX", 0, 0, 0, 124, 0, 0, 0, 0, 1, 10, 135
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientHeader\ClientHeader.tsx", "TypeScript JSX", 0, 0, 0, 381, 0, 0, 0, 0, 27, 33, 441
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientProductCard\ClientProductCard.tsx", "TypeScript JSX", 0, 0, 0, 204, 0, 0, 0, 0, 0, 12, 216
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientUserNavbar\ClientUserNavbar.tsx", "TypeScript JSX", 0, 0, 0, 35, 0, 0, 0, 0, 1, 5, 41
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\CreateUpdateTitle\CreateUpdateTitle.tsx", "TypeScript JSX", 0, 0, 0, 27, 0, 0, 0, 0, 0, 4, 31
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\DefaultHeader\DefaultHeader.tsx", "TypeScript JSX", 0, 0, 0, 140, 0, 0, 0, 0, 8, 18, 166
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\DefaultNavbar\DefaultNavbar.styles.ts", "TypeScript", 66, 0, 0, 0, 0, 0, 0, 0, 0, 13, 79
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\DefaultNavbar\DefaultNavbar.tsx", "TypeScript JSX", 0, 0, 0, 218, 0, 0, 0, 0, 98, 9, 325
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\DefaultPropertyPanel\DefaultPropertyPanel.tsx", "TypeScript JSX", 0, 0, 0, 41, 0, 0, 0, 0, 13, 4, 58
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ElectroLogo\ElectroLogo.tsx", "TypeScript JSX", 0, 0, 0, 9, 0, 0, 0, 0, 2, 5, 16
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\EntityDetailTable\EntityDetailTable.tsx", "TypeScript JSX", 0, 0, 0, 35, 0, 0, 0, 0, 0, 7, 42
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\EntityFinder\EntityFinder.tsx", "TypeScript JSX", 0, 0, 0, 148, 0, 0, 0, 0, 0, 12, 160
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterCriteriaRow\FilterCriteriaRow.tsx", "TypeScript JSX", 0, 0, 0, 128, 0, 0, 0, 0, 0, 9, 137
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterCriteriaRow\FilterCriteriaRow.vm.ts", "TypeScript", 62, 0, 0, 0, 0, 0, 0, 0, 0, 15, 77
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelHeaderLeft\FilterPanelHeaderLeft.tsx", "TypeScript JSX", 0, 0, 0, 23, 0, 0, 0, 0, 0, 5, 28
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelHeaderRight\FilterPanelHeaderRight.tsx", "TypeScript JSX", 0, 0, 0, 34, 0, 0, 0, 0, 0, 5, 39
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelHeaderRight\FilterPanelHeaderRight.vm.ts", "TypeScript", 53, 0, 0, 0, 0, 0, 0, 0, 0, 10, 63
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelHeader\FilterPanelHeader.tsx", "TypeScript JSX", 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelMainLeft\FilterPanelMainLeft.tsx", "TypeScript JSX", 0, 0, 0, 38, 0, 0, 0, 0, 0, 6, 44
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelMainLeft\FilterPanelMainLeft.vm.ts", "TypeScript", 20, 0, 0, 0, 0, 0, 0, 0, 0, 6, 26
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelMainRight\FilterPanelMainRight.tsx", "TypeScript JSX", 0, 0, 0, 38, 0, 0, 0, 0, 0, 6, 44
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelMainRight\FilterPanelMainRight.vm.ts", "TypeScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 7, 31
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelMain\FilterPanelMain.tsx", "TypeScript JSX", 0, 0, 0, 15, 0, 0, 0, 0, 0, 4, 19
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanel\FilterPanel.styles.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanel\FilterPanel.tsx", "TypeScript JSX", 0, 0, 0, 38, 0, 0, 0, 0, 0, 8, 46
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\FloatingCodeFrame\FloatingCodeFrame.tsx", "TypeScript JSX", 0, 0, 0, 24, 0, 0, 0, 0, 0, 5, 29
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\LoadingMiddleware\LoadingMiddleware.tsx", "TypeScript JSX", 0, 0, 0, 46, 0, 0, 0, 0, 5, 11, 62
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageHeaderButtons\ManageHeaderButtons.tsx", "TypeScript JSX", 0, 0, 0, 35, 0, 0, 0, 0, 0, 5, 40
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageHeaderButtons\ManageHeaderButtons.vm.tsx", "TypeScript JSX", 0, 0, 0, 55, 0, 0, 0, 0, 0, 8, 63
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageHeaderTitle\ManageHeaderTitle.tsx", "TypeScript JSX", 0, 0, 0, 35, 0, 0, 0, 0, 0, 6, 41
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageHeader\ManageHeader.tsx", "TypeScript JSX", 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageMain\ManageMain.tsx", "TypeScript JSX", 0, 0, 0, 46, 0, 0, 0, 0, 0, 7, 53
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManagePagination\ManagePagination.tsx", "TypeScript JSX", 0, 0, 0, 60, 0, 0, 0, 0, 0, 7, 67
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManagePagination\ManagePagination.vm.ts", "TypeScript", 29, 0, 0, 0, 0, 0, 0, 0, 0, 6, 35
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageTable\ManageTable.styles.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageTable\ManageTable.tsx", "TypeScript JSX", 0, 0, 0, 111, 0, 0, 0, 0, 0, 9, 120
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageTable\ManageTable.vm.tsx", "TypeScript JSX", 0, 0, 0, 88, 0, 0, 0, 0, 0, 12, 100
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductImagesDropzone\ProductImagesDropzone.tsx", "TypeScript JSX", 0, 0, 0, 321, 0, 0, 0, 0, 1, 20, 342
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductProperties\ProductProperties.tsx", "TypeScript JSX", 0, 0, 0, 51, 0, 0, 0, 0, 0, 9, 60
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductPropertyRow\ProductPropertyRow.tsx", "TypeScript JSX", 0, 0, 0, 117, 0, 0, 0, 0, 0, 14, 131
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductSpecificationRow\ProductSpecificationRow.tsx", "TypeScript JSX", 0, 0, 0, 106, 0, 0, 0, 0, 0, 13, 119
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductSpecifications\ProductSpecifications.tsx", "TypeScript JSX", 0, 0, 0, 51, 0, 0, 0, 0, 0, 9, 60
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductVariantRow\ProductVariantRow.tsx", "TypeScript JSX", 0, 0, 0, 102, 0, 0, 0, 0, 0, 9, 111
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductVariantsForUpdate\ProductVariantsForUpdate.tsx", "TypeScript JSX", 0, 0, 0, 118, 0, 0, 0, 0, 0, 14, 132
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductVariants\ProductVariants.tsx", "TypeScript JSX", 0, 0, 0, 80, 0, 0, 0, 0, 0, 10, 90
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProtectedRoute\ProtectedRoute.tsx", "TypeScript JSX", 0, 0, 0, 34, 0, 0, 0, 0, 0, 5, 39
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ReviewStarGroup\ReviewStarGroup.tsx", "TypeScript JSX", 0, 0, 0, 19, 0, 0, 0, 0, 0, 4, 23
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\ScrollToTop\ScrollToTop.tsx", "TypeScript JSX", 0, 0, 0, 14, 0, 0, 0, 0, 1, 5, 20
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\SearchPanel\SearchPanel.tsx", "TypeScript JSX", 0, 0, 0, 47, 0, 0, 0, 0, 24, 5, 76
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\SearchPanel\SearchPanel.vm.ts", "TypeScript", 62, 0, 0, 0, 0, 0, 0, 0, 0, 12, 74
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\SortCriteriaRow\SortCriteriaRow.tsx", "TypeScript JSX", 0, 0, 0, 63, 0, 0, 0, 0, 0, 5, 68
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\SortCriteriaRow\SortCriteriaRow.vm.ts", "TypeScript", 45, 0, 0, 0, 0, 0, 0, 0, 0, 10, 55
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\VariantFinder\VariantFinder.tsx", "TypeScript JSX", 0, 0, 0, 125, 0, 0, 0, 0, 0, 11, 136
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\VariantTablePopover\VariantTablePopover.tsx", "TypeScript JSX", 0, 0, 0, 87, 0, 0, 0, 0, 0, 8, 95
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\VariantTable\VariantTable.tsx", "TypeScript JSX", 0, 0, 0, 166, 0, 0, 0, 0, 0, 6, 172
+"e:\dowload 2\MyGameMPFE\mygamefe\src\components\index.ts", "TypeScript", 92, 0, 0, 0, 0, 0, 0, 0, 10, 20, 122
+"e:\dowload 2\MyGameMPFE\mygamefe\src\constants\ApplicationConstants.ts", "TypeScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 4, 21
+"e:\dowload 2\MyGameMPFE\mygamefe\src\constants\ManagerPath.ts", "TypeScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 13, 61
+"e:\dowload 2\MyGameMPFE\mygamefe\src\constants\ResourceURL.ts", "TypeScript", 90, 0, 0, 0, 0, 0, 0, 0, 3, 18, 111
+"e:\dowload 2\MyGameMPFE\mygamefe\src\constants\Titles.ts", "TypeScript", 33, 0, 0, 0, 0, 0, 0, 0, 0, 5, 38
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-create-api.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-create-preorder-api.tsx", "TypeScript JSX", 0, 0, 0, 24, 0, 0, 0, 0, 0, 3, 27
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-create-wish-api.tsx", "TypeScript JSX", 0, 0, 0, 24, 0, 0, 0, 0, 0, 3, 27
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-delete-by-id-api.ts", "TypeScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 4, 21
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-delete-by-ids-api.ts", "TypeScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 4, 21
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-get-all-api.ts", "TypeScript", 41, 0, 0, 0, 0, 0, 0, 0, 0, 6, 47
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-get-by-id-api.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 3, 25
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-init-filter-panel-state.ts", "TypeScript", 10, 0, 0, 0, 0, 0, 0, 0, 0, 4, 14
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-reset-manage-page-state.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 4, 13
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-save-cart-api.tsx", "TypeScript JSX", 0, 0, 0, 22, 0, 0, 0, 0, 0, 5, 27
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-select-address.ts", "TypeScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 6, 31
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-title.ts", "TypeScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 5, 16
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-update-api.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 4, 22
+"e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-upload-multiple-images-api.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"e:\dowload 2\MyGameMPFE\mygamefe\src\index.css", "PostCSS", 0, 0, 0, 0, 0, 53, 0, 0, 13, 11, 77
+"e:\dowload 2\MyGameMPFE\mygamefe\src\index.tsx", "TypeScript JSX", 0, 0, 0, 15, 0, 0, 0, 0, 3, 4, 22
+"e:\dowload 2\MyGameMPFE\mygamefe\src\logo.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Address.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 5, 23
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Authentication.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\BaseResponse.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Brand.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Category.ts", "TypeScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 4, 29
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Count.ts", "TypeScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 3, 20
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\CountVariant.ts", "TypeScript", 30, 0, 0, 0, 0, 0, 0, 0, 0, 6, 36
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Customer.ts", "TypeScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 3, 20
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\CustomerGroup.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\CustomerResource.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\CustomerStatus.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Department.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Destination.ts", "TypeScript", 16, 0, 0, 0, 0, 0, 0, 0, 0, 3, 19
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\District.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Docket.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 0, 0, 0, 5, 39
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\DocketReason.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\DocketVariant.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 6, 34
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\DocketVariantEliminatedResponse.ts", "TypeScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 5, 29
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\DocketVariantExtended.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 6, 38
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Employee.ts", "TypeScript", 23, 0, 0, 0, 0, 0, 0, 0, 0, 3, 26
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Guarantee.ts", "TypeScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Image.ts", "TypeScript", 26, 0, 0, 0, 0, 0, 0, 0, 3, 3, 32
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\JobLevel.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\JobTitle.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\JobType.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Message.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 4, 22
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Notification.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 4, 32
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Office.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Order.ts", "TypeScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 3, 51
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\OrderCancellationReason.ts", "TypeScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\OrderResource.ts", "TypeScript", 16, 0, 0, 0, 0, 0, 0, 0, 0, 3, 19
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\OrderVariant.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 6, 38
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\PaymentMethod.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 4, 17
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Product.ts", "TypeScript", 79, 0, 0, 0, 0, 0, 0, 0, 0, 8, 87
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\ProductInventory.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 3, 22
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Promotion.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 4, 26
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Property.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Province.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\PurchaseOrder.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 0, 0, 0, 5, 39
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\PurchaseOrderVariant.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 6, 38
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Review.ts", "TypeScript", 26, 0, 0, 0, 0, 0, 0, 0, 0, 5, 31
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\RewardStrategy.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 4, 19
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Role.ts", "TypeScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Room.ts", "TypeScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 4, 21
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Specification.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Statistic.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 2, 20
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Supplier.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 3, 39
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Tag.ts", "TypeScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Transfer.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Unit.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\User.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 4, 36
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Variant.ts", "TypeScript", 29, 0, 0, 0, 0, 0, 0, 0, 0, 5, 34
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\VariantInventory.ts", "TypeScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 4, 29
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Ward.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Warehouse.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"e:\dowload 2\MyGameMPFE\mygamefe\src\models\Waybill.ts", "TypeScript", 33, 0, 0, 0, 0, 0, 0, 0, 0, 4, 37
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\Admin.tsx", "TypeScript JSX", 0, 0, 0, 31, 0, 0, 0, 0, 0, 6, 37
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\AdminDashboard.tsx", "TypeScript JSX", 0, 0, 0, 234, 0, 0, 0, 0, 0, 21, 255
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\Client.tsx", "TypeScript JSX", 0, 0, 0, 80, 0, 0, 0, 0, 1, 11, 92
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\PageConfigs.ts", "TypeScript", 104, 0, 0, 0, 0, 0, 0, 0, 0, 9, 113
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressConfigs.ts", "TypeScript", 78, 0, 0, 0, 0, 0, 0, 0, 0, 8, 86
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressCreate.tsx", "TypeScript JSX", 0, 0, 0, 62, 0, 0, 0, 0, 0, 8, 70
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressCreate.vm.ts", "TypeScript", 56, 0, 0, 0, 0, 0, 0, 0, 0, 7, 63
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressManage.tsx", "TypeScript JSX", 0, 0, 0, 120, 0, 0, 0, 0, 0, 12, 132
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressUpdate.tsx", "TypeScript JSX", 0, 0, 0, 74, 0, 0, 0, 0, 0, 9, 83
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressUpdate.vm.ts", "TypeScript", 76, 0, 0, 0, 0, 0, 0, 0, 0, 7, 83
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-account\AdminAccount.tsx", "TypeScript JSX", 0, 0, 0, 79, 0, 0, 0, 0, 0, 14, 93
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-account\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-notification\AdminNotification.tsx", "TypeScript JSX", 0, 0, 0, 15, 0, 0, 0, 0, 0, 4, 19
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-notification\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-signin\AdminSignin.tsx", "TypeScript JSX", 0, 0, 0, 97, 0, 0, 0, 0, 0, 18, 115
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-signin\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandConfigs.ts", "TypeScript", 53, 0, 0, 0, 0, 0, 0, 0, 0, 8, 61
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandCreate.tsx", "TypeScript JSX", 0, 0, 0, 64, 0, 0, 0, 0, 0, 8, 72
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandCreate.vm.ts", "TypeScript", 37, 0, 0, 0, 0, 0, 0, 0, 0, 7, 44
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandManage.tsx", "TypeScript JSX", 0, 0, 0, 118, 0, 0, 0, 0, 0, 14, 132
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandUpdate.tsx", "TypeScript JSX", 0, 0, 0, 76, 0, 0, 0, 0, 0, 9, 85
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandUpdate.vm.ts", "TypeScript", 59, 0, 0, 0, 0, 0, 0, 0, 0, 8, 67
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryConfigs.ts", "TypeScript", 75, 0, 0, 0, 0, 0, 0, 0, 0, 8, 83
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryCreate.tsx", "TypeScript JSX", 0, 0, 0, 81, 0, 0, 0, 0, 0, 8, 89
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryCreate.vm.ts", "TypeScript", 57, 0, 0, 0, 0, 0, 0, 0, 0, 8, 65
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryManage.tsx", "TypeScript JSX", 0, 0, 0, 135, 0, 0, 0, 0, 0, 14, 149
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryUpdate.tsx", "TypeScript JSX", 0, 0, 0, 93, 0, 0, 0, 0, 0, 9, 102
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryUpdate.vm.ts", "TypeScript", 81, 0, 0, 0, 0, 0, 0, 0, 0, 8, 89
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\chat\ChatDashboard.tsx", "TypeScript JSX", 0, 0, 0, 165, 0, 0, 0, 0, 0, 18, 183
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\chat\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-all-categories\ClientAllCategories.tsx", "TypeScript JSX", 0, 0, 0, 125, 0, 0, 0, 0, 1, 12, 138
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-all-categories\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-cart\ClientCart.tsx", "TypeScript JSX", 0, 0, 0, 651, 0, 0, 0, 0, 0, 63, 714
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-cart\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-category\ClientCategory.tsx", "TypeScript JSX", 0, 0, 0, 271, 0, 0, 0, 0, 6, 35, 312
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-category\ClientCategoryProducts.tsx", "TypeScript JSX", 0, 0, 0, 109, 0, 0, 0, 0, 0, 15, 124
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-category\ClientCategorySkeleton.tsx", "TypeScript JSX", 0, 0, 0, 16, 0, 0, 0, 0, 0, 3, 19
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-category\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-chat\ClientChat.tsx", "TypeScript JSX", 0, 0, 0, 270, 0, 0, 0, 0, 0, 30, 300
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-chat\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-forgot-password\ClientChangePassword.tsx", "TypeScript JSX", 0, 0, 0, 95, 0, 0, 0, 0, 0, 14, 109
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-forgot-password\ClientForgotPassword.tsx", "TypeScript JSX", 0, 0, 0, 66, 0, 0, 0, 0, 0, 11, 77
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-forgot-password\index.ts", "TypeScript", 3, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\ClientHome.tsx", "TypeScript JSX", 0, 0, 0, 24, 0, 0, 0, 0, 0, 5, 29
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\ClientHomeBanner.tsx", "TypeScript JSX", 0, 0, 0, 101, 0, 0, 0, 0, 27, 6, 134
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\ClientHomeFeaturedCategories.tsx", "TypeScript JSX", 0, 0, 0, 12, 0, 0, 0, 0, 41, 5, 58
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\ClientHomeLatestProducts.tsx", "TypeScript JSX", 0, 0, 0, 78, 0, 0, 0, 0, 3, 12, 93
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\ClientHomeNewsletter.tsx", "TypeScript JSX", 0, 0, 0, 79, 0, 0, 0, 0, 2, 10, 91
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-notification\ClientNotification.tsx", "TypeScript JSX", 0, 0, 0, 269, 0, 0, 0, 0, 0, 31, 300
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-notification\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-order-detail\ClientOrderDetail.tsx", "TypeScript JSX", 0, 0, 0, 567, 0, 0, 0, 0, 8, 52, 627
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-order-detail\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-order\ClientOrder.tsx", "TypeScript JSX", 0, 0, 0, 230, 0, 0, 0, 0, 0, 27, 257
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-order\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-payment-cancel\ClientPaymentCancel.tsx", "TypeScript JSX", 0, 0, 0, 25, 0, 0, 0, 0, 3, 6, 34
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-payment-cancel\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-payment-success\ClientPaymentSuccess.tsx", "TypeScript JSX", 0, 0, 0, 25, 0, 0, 0, 0, 3, 6, 34
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-payment-success\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-preorder\ClientPreorder.tsx", "TypeScript JSX", 0, 0, 0, 271, 0, 0, 0, 0, 0, 30, 301
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-preorder\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProduct.tsx", "TypeScript JSX", 0, 0, 0, 71, 0, 0, 0, 0, 0, 15, 86
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProductDescription.tsx", "TypeScript JSX", 0, 0, 0, 19, 0, 0, 0, 0, 0, 4, 23
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProductIntro.tsx", "TypeScript JSX", 0, 0, 0, 322, 0, 0, 0, 0, 5, 23, 350
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProductRelatedProducts.tsx", "TypeScript JSX", 0, 0, 0, 26, 0, 0, 0, 0, 0, 4, 30
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProductReviews.tsx", "TypeScript JSX", 0, 0, 0, 154, 0, 0, 0, 0, 0, 16, 170
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProductSpecification.tsx", "TypeScript JSX", 0, 0, 0, 43, 0, 0, 0, 0, 0, 5, 48
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-review\ClientReview.tsx", "TypeScript JSX", 0, 0, 0, 287, 0, 0, 0, 0, 1, 32, 320
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-review\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-reward\ClientReward.tsx", "TypeScript JSX", 0, 0, 0, 146, 0, 0, 0, 0, 0, 20, 166
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-reward\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-search\ClientSearch.tsx", "TypeScript JSX", 0, 0, 0, 151, 0, 0, 0, 0, 0, 17, 168
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-search\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-email\ClientSettingEmail.tsx", "TypeScript JSX", 0, 0, 0, 88, 0, 0, 0, 0, 0, 12, 100
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-email\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-password\ClientSettingPassword.tsx", "TypeScript JSX", 0, 0, 0, 108, 0, 0, 0, 0, 0, 11, 119
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-password\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-personal\ClientSettingPersonal.tsx", "TypeScript JSX", 0, 0, 0, 210, 0, 0, 0, 0, 1, 16, 227
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-personal\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-phone\ClientSettingPhone.tsx", "TypeScript JSX", 0, 0, 0, 88, 0, 0, 0, 0, 1, 12, 101
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-phone\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting\ClientSetting.tsx", "TypeScript JSX", 0, 0, 0, 106, 0, 0, 0, 0, 0, 9, 115
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-signin\ClientSignin.tsx", "TypeScript JSX", 0, 0, 0, 182, 0, 0, 0, 0, 8, 27, 217
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-signin\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-signup\ClientSignup.tsx", "TypeScript JSX", 0, 0, 0, 485, 0, 0, 0, 0, 1, 48, 534
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-signup\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-user\ClientUser.tsx", "TypeScript JSX", 0, 0, 0, 147, 0, 0, 0, 0, 0, 16, 163
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-user\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-wishlist\ClientWishlist.tsx", "TypeScript JSX", 0, 0, 0, 197, 0, 0, 0, 0, 0, 24, 221
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-wishlist\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountConfigs.ts", "TypeScript", 63, 0, 0, 0, 0, 0, 0, 0, 0, 8, 71
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountCreate.tsx", "TypeScript JSX", 0, 0, 0, 97, 0, 0, 0, 0, 0, 9, 106
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountCreate.vm.ts", "TypeScript", 110, 0, 0, 0, 0, 0, 0, 0, 0, 14, 124
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountManage.tsx", "TypeScript JSX", 0, 0, 0, 131, 0, 0, 0, 0, 0, 13, 144
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountUpdate.tsx", "TypeScript JSX", 0, 0, 0, 109, 0, 0, 0, 0, 0, 10, 119
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountUpdate.vm.ts", "TypeScript", 149, 0, 0, 0, 0, 0, 0, 0, 0, 18, 167
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupConfigs.ts", "TypeScript", 60, 0, 0, 0, 0, 0, 0, 0, 0, 8, 68
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupCreate.tsx", "TypeScript JSX", 0, 0, 0, 73, 0, 0, 0, 0, 0, 8, 81
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupCreate.vm.ts", "TypeScript", 38, 0, 0, 0, 0, 0, 0, 0, 0, 7, 45
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupManage.tsx", "TypeScript JSX", 0, 0, 0, 131, 0, 0, 0, 0, 0, 14, 145
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupUpdate.tsx", "TypeScript JSX", 0, 0, 0, 85, 0, 0, 0, 0, 0, 9, 94
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupUpdate.vm.ts", "TypeScript", 61, 0, 0, 0, 0, 0, 0, 0, 0, 8, 69
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceConfigs.ts", "TypeScript", 60, 0, 0, 0, 0, 0, 0, 0, 0, 8, 68
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceCreate.tsx", "TypeScript JSX", 0, 0, 0, 73, 0, 0, 0, 0, 0, 8, 81
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceCreate.vm.ts", "TypeScript", 38, 0, 0, 0, 0, 0, 0, 0, 0, 7, 45
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceManage.tsx", "TypeScript JSX", 0, 0, 0, 131, 0, 0, 0, 0, 0, 14, 145
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceUpdate.tsx", "TypeScript JSX", 0, 0, 0, 85, 0, 0, 0, 0, 0, 9, 94
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceUpdate.vm.ts", "TypeScript", 61, 0, 0, 0, 0, 0, 0, 0, 0, 8, 69
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusConfigs.ts", "TypeScript", 60, 0, 0, 0, 0, 0, 0, 0, 0, 8, 68
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusCreate.tsx", "TypeScript JSX", 0, 0, 0, 73, 0, 0, 0, 0, 0, 8, 81
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusCreate.vm.ts", "TypeScript", 38, 0, 0, 0, 0, 0, 0, 0, 0, 7, 45
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusManage.tsx", "TypeScript JSX", 0, 0, 0, 131, 0, 0, 0, 0, 0, 14, 145
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusUpdate.tsx", "TypeScript JSX", 0, 0, 0, 85, 0, 0, 0, 0, 0, 9, 94
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusUpdate.vm.ts", "TypeScript", 61, 0, 0, 0, 0, 0, 0, 0, 0, 8, 69
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerConfigs.ts", "TypeScript", 183, 0, 0, 0, 0, 0, 0, 0, 0, 9, 192
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerCreate.tsx", "TypeScript JSX", 0, 0, 0, 177, 0, 0, 0, 0, 0, 8, 185
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerCreate.vm.ts", "TypeScript", 143, 0, 0, 0, 0, 0, 0, 0, 0, 10, 153
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerManage.tsx", "TypeScript JSX", 0, 0, 0, 211, 0, 0, 0, 0, 0, 14, 225
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerUpdate.tsx", "TypeScript JSX", 0, 0, 0, 189, 0, 0, 0, 0, 0, 9, 198
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerUpdate.vm.ts", "TypeScript", 175, 0, 0, 0, 0, 0, 0, 0, 0, 10, 185
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentConfigs.ts", "TypeScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 8, 48
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentCreate.tsx", "TypeScript JSX", 0, 0, 0, 51, 0, 0, 0, 0, 0, 8, 59
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentCreate.vm.ts", "TypeScript", 39, 0, 0, 0, 0, 0, 0, 0, 0, 7, 46
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentManage.tsx", "TypeScript JSX", 0, 0, 0, 108, 0, 0, 0, 0, 0, 15, 123
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentUpdate.tsx", "TypeScript JSX", 0, 0, 0, 63, 0, 0, 0, 0, 0, 9, 72
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentUpdate.vm.ts", "TypeScript", 59, 0, 0, 0, 0, 0, 0, 0, 0, 8, 67
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationConfigs.ts", "TypeScript", 83, 0, 0, 0, 0, 0, 0, 0, 0, 8, 91
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationCreate.tsx", "TypeScript JSX", 0, 0, 0, 91, 0, 0, 0, 0, 0, 8, 99
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationCreate.vm.ts", "TypeScript", 73, 0, 0, 0, 0, 0, 0, 0, 0, 8, 81
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationManage.tsx", "TypeScript JSX", 0, 0, 0, 135, 0, 0, 0, 0, 0, 14, 149
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationUpdate.tsx", "TypeScript JSX", 0, 0, 0, 103, 0, 0, 0, 0, 0, 9, 112
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationUpdate.vm.ts", "TypeScript", 97, 0, 0, 0, 0, 0, 0, 0, 0, 8, 105
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictConfigs.ts", "TypeScript", 58, 0, 0, 0, 0, 0, 0, 0, 0, 8, 66
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictCreate.tsx", "TypeScript JSX", 0, 0, 0, 59, 0, 0, 0, 0, 0, 8, 67
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictCreate.vm.ts", "TypeScript", 41, 0, 0, 0, 0, 0, 0, 0, 0, 7, 48
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictManage.tsx", "TypeScript JSX", 0, 0, 0, 121, 0, 0, 0, 0, 0, 12, 133
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictUpdate.tsx", "TypeScript JSX", 0, 0, 0, 71, 0, 0, 0, 0, 0, 9, 80
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictUpdate.vm.ts", "TypeScript", 61, 0, 0, 0, 0, 0, 0, 0, 0, 7, 68
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonConfigs.ts", "TypeScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 8, 48
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonCreate.tsx", "TypeScript JSX", 0, 0, 0, 51, 0, 0, 0, 0, 0, 8, 59
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonCreate.vm.ts", "TypeScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 7, 42
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonManage.tsx", "TypeScript JSX", 0, 0, 0, 105, 0, 0, 0, 0, 0, 14, 119
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonUpdate.tsx", "TypeScript JSX", 0, 0, 0, 63, 0, 0, 0, 0, 0, 9, 72
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonUpdate.vm.ts", "TypeScript", 55, 0, 0, 0, 0, 0, 0, 0, 0, 8, 63
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketConfigs.ts", "TypeScript", 86, 0, 0, 0, 0, 0, 0, 0, 0, 8, 94
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketCreate.tsx", "TypeScript JSX", 0, 0, 0, 178, 0, 0, 0, 0, 0, 14, 192
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketCreate.vm.ts", "TypeScript", 127, 0, 0, 0, 0, 0, 0, 0, 0, 14, 141
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketManage.tsx", "TypeScript JSX", 0, 0, 0, 161, 0, 0, 0, 0, 0, 14, 175
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketUpdate.tsx", "TypeScript JSX", 0, 0, 0, 199, 0, 0, 0, 0, 1, 15, 215
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketUpdate.vm.ts", "TypeScript", 171, 0, 0, 0, 0, 0, 0, 0, 0, 18, 189
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeConfigs.ts", "TypeScript", 256, 0, 0, 0, 0, 0, 0, 0, 1, 9, 266
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeCreate.tsx", "TypeScript JSX", 0, 0, 0, 197, 0, 0, 0, 0, 0, 8, 205
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeCreate.vm.ts", "TypeScript", 173, 0, 0, 0, 0, 0, 0, 0, 0, 10, 183
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeManage.tsx", "TypeScript JSX", 0, 0, 0, 276, 0, 0, 0, 0, 0, 26, 302
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeUpdate.tsx", "TypeScript JSX", 0, 0, 0, 209, 0, 0, 0, 0, 0, 9, 218
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeUpdate.vm.ts", "TypeScript", 207, 0, 0, 0, 0, 0, 0, 0, 0, 10, 217
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeConfigs.ts", "TypeScript", 46, 0, 0, 0, 0, 0, 0, 0, 0, 8, 54
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeCreate.tsx", "TypeScript JSX", 0, 0, 0, 57, 0, 0, 0, 0, 0, 8, 65
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeCreate.vm.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 7, 43
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeManage.tsx", "TypeScript JSX", 0, 0, 0, 109, 0, 0, 0, 0, 0, 14, 123
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeUpdate.tsx", "TypeScript JSX", 0, 0, 0, 69, 0, 0, 0, 0, 0, 9, 78
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeUpdate.vm.ts", "TypeScript", 57, 0, 0, 0, 0, 0, 0, 0, 0, 8, 65
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\inventory\InventoryConfigs.ts", "TypeScript", 10, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\inventory\InventoryManage.tsx", "TypeScript JSX", 0, 0, 0, 161, 0, 0, 0, 0, 4, 14, 179
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\inventory\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelConfigs.ts", "TypeScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 8, 48
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelCreate.tsx", "TypeScript JSX", 0, 0, 0, 51, 0, 0, 0, 0, 0, 8, 59
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelCreate.vm.ts", "TypeScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 7, 42
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelManage.tsx", "TypeScript JSX", 0, 0, 0, 105, 0, 0, 0, 0, 0, 14, 119
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelUpdate..tsx", "TypeScript JSX", 0, 0, 0, 63, 0, 0, 0, 0, 0, 9, 72
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelUpdate.vm.ts", "TypeScript", 55, 0, 0, 0, 0, 0, 0, 0, 0, 8, 63
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleConfigs.ts", "TypeScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 8, 48
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleCreate.tsx", "TypeScript JSX", 0, 0, 0, 51, 0, 0, 0, 0, 0, 8, 59
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleCreate.vm.ts", "TypeScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 7, 42
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleManage.tsx", "TypeScript JSX", 0, 0, 0, 105, 0, 0, 0, 0, 0, 14, 119
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleUpdate.tsx", "TypeScript JSX", 0, 0, 0, 63, 0, 0, 0, 0, 0, 9, 72
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleUpdate.vm.ts", "TypeScript", 55, 0, 0, 0, 0, 0, 0, 0, 0, 8, 63
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeConfigs.ts", "TypeScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 8, 48
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeCreate.tsx", "TypeScript JSX", 0, 0, 0, 51, 0, 0, 0, 0, 0, 8, 59
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeCreate.vm.ts", "TypeScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 7, 42
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeManage.tsx", "TypeScript JSX", 0, 0, 0, 105, 0, 0, 0, 0, 0, 14, 119
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeUpdate.tsx", "TypeScript JSX", 0, 0, 0, 63, 0, 0, 0, 0, 0, 9, 72
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeUpdate.vm.ts", "TypeScript", 55, 0, 0, 0, 0, 0, 0, 0, 0, 8, 63
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeConfigs.ts", "TypeScript", 80, 0, 0, 0, 0, 0, 0, 0, 0, 8, 88
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeCreate.tsx", "TypeScript JSX", 0, 0, 0, 80, 0, 0, 0, 0, 0, 8, 88
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeCreate.vm.ts", "TypeScript", 75, 0, 0, 0, 0, 0, 0, 0, 0, 8, 83
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeManage.tsx", "TypeScript JSX", 0, 0, 0, 138, 0, 0, 0, 0, 0, 15, 153
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeUpdate.tsx", "TypeScript JSX", 0, 0, 0, 92, 0, 0, 0, 0, 0, 9, 101
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeUpdate.vm.ts", "TypeScript", 97, 0, 0, 0, 0, 0, 0, 0, 0, 8, 105
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonConfigs.ts", "TypeScript", 46, 0, 0, 0, 0, 0, 0, 0, 0, 8, 54
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonCreate.tsx", "TypeScript JSX", 0, 0, 0, 58, 0, 0, 0, 0, 0, 8, 66
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonCreate.vm.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 7, 43
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonManage.tsx", "TypeScript JSX", 0, 0, 0, 109, 0, 0, 0, 0, 0, 14, 123
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonUpdate.tsx", "TypeScript JSX", 0, 0, 0, 70, 0, 0, 0, 0, 0, 9, 79
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonUpdate.vm.ts", "TypeScript", 57, 0, 0, 0, 0, 0, 0, 0, 0, 8, 65
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceConfigs.ts", "TypeScript", 79, 0, 0, 0, 0, 0, 0, 0, 0, 8, 87
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceCreate.tsx", "TypeScript JSX", 0, 0, 0, 76, 0, 0, 0, 0, 0, 8, 84
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceCreate.vm.ts", "TypeScript", 54, 0, 0, 0, 0, 0, 0, 0, 0, 8, 62
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceManage.tsx", "TypeScript JSX", 0, 0, 0, 148, 0, 0, 0, 0, 0, 14, 162
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceUpdate.tsx", "TypeScript JSX", 0, 0, 0, 88, 0, 0, 0, 0, 0, 9, 97
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceUpdate.vm.ts", "TypeScript", 76, 0, 0, 0, 0, 0, 0, 0, 0, 8, 84
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderConfigs.tsx", "TypeScript JSX", 0, 0, 0, 233, 0, 0, 0, 0, 0, 12, 245
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderCreate.tsx", "TypeScript JSX", 0, 0, 0, 267, 0, 0, 0, 0, 1, 15, 283
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderCreate.vm.ts", "TypeScript", 180, 0, 0, 0, 0, 0, 0, 0, 0, 18, 198
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderManage.tsx", "TypeScript JSX", 0, 0, 0, 162, 0, 0, 0, 0, 0, 13, 175
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderUpdate.tsx", "TypeScript JSX", 0, 0, 0, 280, 0, 0, 0, 0, 1, 16, 297
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderUpdate.vm.ts", "TypeScript", 237, 0, 0, 0, 0, 0, 0, 0, 0, 22, 259
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\payment-method\PaymentMethodConfigs.ts", "TypeScript", 23, 0, 0, 0, 0, 0, 0, 0, 0, 3, 26
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\payment-method\PaymentMethodManage.tsx", "TypeScript JSX", 0, 0, 0, 138, 0, 0, 0, 0, 0, 23, 161
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\payment-method\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductConfigs.ts", "TypeScript", 263, 0, 0, 0, 0, 0, 0, 0, 4, 8, 275
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductCreate.tsx", "TypeScript JSX", 0, 0, 0, 229, 0, 0, 0, 0, 10, 8, 247
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductCreate.vm.ts", "TypeScript", 248, 0, 0, 0, 0, 0, 0, 0, 0, 18, 266
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductManage.tsx", "TypeScript JSX", 0, 0, 0, 302, 0, 0, 0, 0, 0, 15, 317
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductUpdate.tsx", "TypeScript JSX", 0, 0, 0, 253, 0, 0, 0, 0, 10, 10, 273
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductUpdate.vm.ts", "TypeScript", 297, 0, 0, 0, 0, 0, 0, 0, 5, 18, 320
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionConfigs.ts", "TypeScript", 79, 0, 0, 0, 0, 0, 0, 0, 0, 9, 88
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionCreate.tsx", "TypeScript JSX", 0, 0, 0, 165, 0, 0, 0, 0, 0, 12, 177
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionCreate.vm.ts", "TypeScript", 75, 0, 0, 0, 0, 0, 0, 0, 0, 12, 87
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionManage.tsx", "TypeScript JSX", 0, 0, 0, 124, 0, 0, 0, 0, 0, 14, 138
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionUpdate.tsx", "TypeScript JSX", 0, 0, 0, 140, 0, 0, 0, 0, 0, 11, 151
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionUpdate.vm.ts", "TypeScript", 85, 0, 0, 0, 0, 0, 0, 0, 0, 11, 96
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyConfigs.ts", "TypeScript", 53, 0, 0, 0, 0, 0, 0, 0, 0, 8, 61
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyCreate.tsx", "TypeScript JSX", 0, 0, 0, 64, 0, 0, 0, 0, 0, 8, 72
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyCreate.vm.ts", "TypeScript", 37, 0, 0, 0, 0, 0, 0, 0, 0, 7, 44
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyManage.tsx", "TypeScript JSX", 0, 0, 0, 118, 0, 0, 0, 0, 0, 14, 132
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyUpdate.tsx", "TypeScript JSX", 0, 0, 0, 76, 0, 0, 0, 0, 0, 9, 85
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyUpdate.vm.ts", "TypeScript", 59, 0, 0, 0, 0, 0, 0, 0, 0, 8, 67
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceConfigs.ts", "TypeScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 8, 48
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceCreate.tsx", "TypeScript JSX", 0, 0, 0, 48, 0, 0, 0, 0, 0, 8, 56
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceCreate.vm.ts", "TypeScript", 23, 0, 0, 0, 0, 0, 0, 0, 0, 6, 29
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceManage.tsx", "TypeScript JSX", 0, 0, 0, 103, 0, 0, 0, 0, 0, 12, 115
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceUpdate.tsx", "TypeScript JSX", 0, 0, 0, 60, 0, 0, 0, 0, 0, 9, 69
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceUpdate.vm.ts", "TypeScript", 43, 0, 0, 0, 0, 0, 0, 0, 0, 7, 50
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderConfigs.ts", "TypeScript", 84, 0, 0, 0, 0, 0, 0, 0, 0, 8, 92
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderCreate.tsx", "TypeScript JSX", 0, 0, 0, 117, 0, 0, 0, 0, 0, 11, 128
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderCreate.vm.ts", "TypeScript", 134, 0, 0, 0, 0, 0, 0, 0, 0, 14, 148
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderManage.tsx", "TypeScript JSX", 0, 0, 0, 183, 0, 0, 0, 0, 0, 13, 196
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderUpdate.tsx", "TypeScript JSX", 0, 0, 0, 129, 0, 0, 0, 0, 0, 12, 141
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderUpdate.vm.ts", "TypeScript", 178, 0, 0, 0, 0, 0, 0, 0, 0, 18, 196
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\review\ReviewConfigs.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\review\ReviewManage.tsx", "TypeScript JSX", 0, 0, 0, 349, 0, 0, 0, 0, 0, 31, 380
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\review\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\reward-strategy\RewardStrategyConfigs.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\reward-strategy\RewardStrategyManage.tsx", "TypeScript JSX", 0, 0, 0, 207, 0, 0, 0, 0, 0, 29, 236
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\reward-strategy\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleConfigs.ts", "TypeScript", 47, 0, 0, 0, 0, 0, 0, 0, 0, 8, 55
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleCreate.tsx", "TypeScript JSX", 0, 0, 0, 58, 0, 0, 0, 0, 0, 8, 66
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleCreate.vm.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 7, 43
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleManage.tsx", "TypeScript JSX", 0, 0, 0, 114, 0, 0, 0, 0, 0, 14, 128
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleUpdate.tsx", "TypeScript JSX", 0, 0, 0, 70, 0, 0, 0, 0, 0, 9, 79
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleUpdate.vm.ts", "TypeScript", 57, 0, 0, 0, 0, 0, 0, 0, 0, 8, 65
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationConfigs.ts", "TypeScript", 53, 0, 0, 0, 0, 0, 0, 0, 0, 8, 61
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationCreate.tsx", "TypeScript JSX", 0, 0, 0, 64, 0, 0, 0, 0, 0, 8, 72
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationCreate.vm.ts", "TypeScript", 37, 0, 0, 0, 0, 0, 0, 0, 0, 7, 44
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationManage.tsx", "TypeScript JSX", 0, 0, 0, 118, 0, 0, 0, 0, 0, 14, 132
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationUpdate.tsx", "TypeScript JSX", 0, 0, 0, 76, 0, 0, 0, 0, 0, 9, 85
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationUpdate.vm.ts", "TypeScript", 59, 0, 0, 0, 0, 0, 0, 0, 0, 8, 67
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierConfigs.ts", "TypeScript", 146, 0, 0, 0, 0, 0, 0, 0, 0, 8, 154
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierCreate.tsx", "TypeScript JSX", 0, 0, 0, 164, 0, 0, 0, 0, 0, 8, 172
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierCreate.vm.ts", "TypeScript", 85, 0, 0, 0, 0, 0, 0, 0, 0, 8, 93
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierManage.tsx", "TypeScript JSX", 0, 0, 0, 183, 0, 0, 0, 0, 0, 14, 197
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierUpdate.tsx", "TypeScript JSX", 0, 0, 0, 176, 0, 0, 0, 0, 0, 9, 185
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierUpdate.vm.ts", "TypeScript", 119, 0, 0, 0, 0, 0, 0, 0, 0, 8, 127
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagConfigs.ts", "TypeScript", 47, 0, 0, 0, 0, 0, 0, 0, 0, 8, 55
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagCreate.tsx", "TypeScript JSX", 0, 0, 0, 58, 0, 0, 0, 0, 0, 8, 66
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagCreate.vm.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 7, 43
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagManage.tsx", "TypeScript JSX", 0, 0, 0, 114, 0, 0, 0, 0, 0, 14, 128
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagUpdate.tsx", "TypeScript JSX", 0, 0, 0, 70, 0, 0, 0, 0, 0, 9, 79
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagUpdate.vm.ts", "TypeScript", 57, 0, 0, 0, 0, 0, 0, 0, 0, 8, 65
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferConfigs.ts", "TypeScript", 78, 0, 0, 0, 0, 0, 0, 0, 0, 8, 86
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferCreate.tsx", "TypeScript JSX", 0, 0, 0, 101, 0, 0, 0, 0, 0, 9, 110
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferCreate.vm.ts", "TypeScript", 113, 0, 0, 0, 0, 0, 0, 0, 0, 13, 126
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferManage.tsx", "TypeScript JSX", 0, 0, 0, 144, 0, 0, 0, 0, 0, 13, 157
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferUpdate.tsx", "TypeScript JSX", 0, 0, 0, 113, 0, 0, 0, 0, 0, 10, 123
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferUpdate.vm.ts", "TypeScript", 159, 0, 0, 0, 0, 0, 0, 0, 0, 18, 177
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitConfigs.ts", "TypeScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 8, 48
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitCreate.tsx", "TypeScript JSX", 0, 0, 0, 51, 0, 0, 0, 0, 0, 8, 59
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitCreate.vm.ts", "TypeScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 7, 42
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitManage.tsx", "TypeScript JSX", 0, 0, 0, 105, 0, 0, 0, 0, 0, 14, 119
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitUpdate.tsx", "TypeScript JSX", 0, 0, 0, 63, 0, 0, 0, 0, 0, 9, 72
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitUpdate.vm.ts", "TypeScript", 55, 0, 0, 0, 0, 0, 0, 0, 0, 8, 63
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserConfigs.ts", "TypeScript", 139, 0, 0, 0, 0, 0, 0, 0, 0, 8, 147
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserCreate.tsx", "TypeScript JSX", 0, 0, 0, 146, 0, 0, 0, 0, 0, 8, 154
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserCreate.vm.ts", "TypeScript", 103, 0, 0, 0, 0, 0, 0, 0, 0, 9, 112
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserManage.tsx", "TypeScript JSX", 0, 0, 0, 172, 0, 0, 0, 0, 0, 14, 186
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserUpdate.tsx", "TypeScript JSX", 0, 0, 0, 159, 0, 0, 0, 0, 0, 9, 168
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserUpdate.vm.ts", "TypeScript", 149, 0, 0, 0, 0, 0, 0, 0, 1, 13, 163
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\voucher\VoucherManage.tsx", "TypeScript JSX", 0, 0, 0, 19, 0, 0, 0, 0, 0, 4, 23
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\voucher\index.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\ward\WardConfigs.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseConfigs.ts", "TypeScript", 109, 0, 0, 0, 0, 0, 0, 0, 0, 8, 117
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseCreate.tsx", "TypeScript JSX", 0, 0, 0, 86, 0, 0, 0, 0, 0, 8, 94
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseCreate.vm.ts", "TypeScript", 74, 0, 0, 0, 0, 0, 0, 0, 0, 8, 82
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseManage.tsx", "TypeScript JSX", 0, 0, 0, 126, 0, 0, 0, 0, 0, 14, 140
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseUpdate.tsx", "TypeScript JSX", 0, 0, 0, 98, 0, 0, 0, 0, 0, 9, 107
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseUpdate.vm.ts", "TypeScript", 97, 0, 0, 0, 0, 0, 0, 0, 0, 8, 105
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillConfigs.ts", "TypeScript", 98, 0, 0, 0, 0, 0, 0, 0, 0, 10, 108
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillCreate.tsx", "TypeScript JSX", 0, 0, 0, 136, 0, 0, 0, 0, 0, 10, 146
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillCreate.vm.ts", "TypeScript", 45, 0, 0, 0, 0, 0, 0, 0, 0, 7, 52
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillManage.tsx", "TypeScript JSX", 0, 0, 0, 210, 0, 0, 0, 0, 0, 16, 226
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillUpdate.tsx", "TypeScript JSX", 0, 0, 0, 169, 0, 0, 0, 0, 0, 11, 180
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillUpdate.vm.ts", "TypeScript", 71, 0, 0, 0, 0, 0, 0, 0, 0, 8, 79
+"e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\index.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\react-app-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"e:\dowload 2\MyGameMPFE\mygamefe\src\reportWebVitals.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"e:\dowload 2\MyGameMPFE\mygamefe\src\setupTests.ts", "TypeScript", 1, 0, 0, 0, 0, 0, 0, 0, 4, 1, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\stores\create-admin-site-slice.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 5, 18
+"e:\dowload 2\MyGameMPFE\mygamefe\src\stores\create-manage-page-slice.ts", "TypeScript", 51, 0, 0, 0, 0, 0, 0, 0, 0, 5, 56
+"e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-admin-auth-store.ts", "TypeScript", 55, 0, 0, 0, 0, 0, 0, 0, 1, 10, 66
+"e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-app-store.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 3, 6, 37
+"e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-auth-store.ts", "TypeScript", 77, 0, 0, 0, 0, 0, 0, 0, 2, 10, 89
+"e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-client-category-store.ts", "TypeScript", 59, 0, 0, 0, 0, 0, 0, 0, 0, 6, 65
+"e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-client-site-store.ts", "TypeScript", 29, 0, 0, 0, 0, 0, 0, 0, 0, 6, 35
+"e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-filter-panel-store.ts", "TypeScript", 66, 0, 0, 0, 0, 0, 0, 0, 0, 7, 73
+"e:\dowload 2\MyGameMPFE\mygamefe\src\types\ClientUI.ts", "TypeScript", 278, 0, 0, 0, 0, 0, 0, 0, 15, 62, 355
+"e:\dowload 2\MyGameMPFE\mygamefe\src\types\CollectionWrapper.ts", "TypeScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 2, 10
+"e:\dowload 2\MyGameMPFE\mygamefe\src\types\Configs.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 2, 17
+"e:\dowload 2\MyGameMPFE\mygamefe\src\types\EntityProperty.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 3, 22
+"e:\dowload 2\MyGameMPFE\mygamefe\src\types\FileWithPreview.ts", "TypeScript", 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"e:\dowload 2\MyGameMPFE\mygamefe\src\types\SelectOption.ts", "TypeScript", 5, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"e:\dowload 2\MyGameMPFE\mygamefe\src\types\TitleLink.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"e:\dowload 2\MyGameMPFE\mygamefe\src\types\Utility.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"e:\dowload 2\MyGameMPFE\mygamefe\src\types\index.ts", "TypeScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"e:\dowload 2\MyGameMPFE\mygamefe\src\utils\DateUtils.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 7, 26
+"e:\dowload 2\MyGameMPFE\mygamefe\src\utils\FetchUtils.ts", "TypeScript", 209, 0, 0, 0, 0, 0, 0, 0, 90, 31, 330
+"e:\dowload 2\MyGameMPFE\mygamefe\src\utils\FilterUtils.ts", "TypeScript", 250, 0, 0, 0, 0, 0, 0, 0, 0, 21, 271
+"e:\dowload 2\MyGameMPFE\mygamefe\src\utils\MessageUtils.ts", "TypeScript", 5, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"e:\dowload 2\MyGameMPFE\mygamefe\src\utils\MiscUtils.ts", "TypeScript", 74, 0, 0, 0, 0, 0, 0, 0, 3, 26, 103
+"e:\dowload 2\MyGameMPFE\mygamefe\src\utils\MockUtils.ts", "TypeScript", 37, 0, 0, 0, 0, 0, 0, 0, 354, 8, 399
+"e:\dowload 2\MyGameMPFE\mygamefe\src\utils\NotifyUtils.tsx", "TypeScript JSX", 0, 0, 0, 31, 0, 0, 0, 0, 0, 5, 36
+"e:\dowload 2\MyGameMPFE\mygamefe\tsconfig.json", "JSON with Comments", 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 27
+"Total", "-", 12676, 27, 16330, 25037, 26, 53, 1, 20, 943, 4296, 59409

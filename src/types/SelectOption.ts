@@ -3,3 +3,4 @@ export interface SelectOption {
   label: string;
   disabled?: boolean;
 }
+//chọn một option trong select

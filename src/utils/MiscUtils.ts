@@ -18,6 +18,7 @@ class MiscUtils {
 
   static isEquals = <T1, T2>(first: T1, second: T2) => isEqual(first, second);
 
+  //chuyển chuỗi thành slug
   static convertToSlug = (name: string) => name.trim()
     .toLowerCase()
     .normalize('NFD')
@@ -26,8 +27,10 @@ class MiscUtils {
     .replace(/ /g, '-')
     .concat('-', Math.random().toString(36).substring(2, 7));
 
+    // định dạng giá tiền theo định dạng Việt Nam
   static formatPrice = (price: number): string => new Intl.NumberFormat('vi-VN').format(price);
 
+  // chuyển đổi giá tiền từ chuỗi sang số
   static recursiveFlatMap = (arrays: string[][], i = 0, combination: string[] = []): string[][] => {
     if (i === arrays.length) {
       return [combination];
@@ -35,12 +38,15 @@ class MiscUtils {
     return arrays[i].flatMap(n => MiscUtils.recursiveFlatMap(arrays, i + 1, [...combination, n]));
   };
 
+  //  chuyển đổi giá tiền từ chuỗi sang số (xóa dấu phân cách hàng nghìn)
   static parserPrice = (value?: string) => (value || '').replace(/(\.)/g, '');
 
+  // định dạng giá tiền từ chuỗi sang định dạng có dấu phân cách hàng nghìn
   static formatterPrice = (value?: string) => !Number.isNaN(parseFloat(value || ''))
     ? (value || '').replace(/\B(?=(\d{3})+(?!\d))/g, '.')
     : '';
 
+    // tạo đường dẫn breadcrumb cho danh mục
   static makeCategoryBreadcrumbs = (category: ClientCategoryResponse): ClientCategoryResponse[] => {
     if (!category.categoryParent) {
       return [category];
@@ -48,6 +54,7 @@ class MiscUtils {
     return [...MiscUtils.makeCategoryBreadcrumbs(category.categoryParent), category];
   };
 
+  // tạo các tùy chọn giá tiền dựa trên khoảng tứ phân vị
   static generatePriceOptions = (filterPriceQuartiles: [number, number]) => {
     const start = filterPriceQuartiles[0];
     const end = filterPriceQuartiles[1];
@@ -79,6 +86,7 @@ class MiscUtils {
     return priceOptions;
   };
 
+  // chuyển đổi tùy chọn giá tiền thành chuỗi dễ đọc
   static readablePriceOption = (priceOption: string[]) => {
     const replaceMillion = (price: string) => price.replace(/000000$/, ' tr');
 
@@ -96,6 +104,7 @@ class MiscUtils {
 
   static ghnLogoPath = 'https://file.hstatic.net/200000472237/file/logo_b8515d08a6d14b09bce4e39221712e15.png';
 
+  // tính giá sau khi áp dụng giảm giá
   static calculateDiscountedPrice = (price: number, discount: number) => price * (100 - discount) / 100;
 }
 

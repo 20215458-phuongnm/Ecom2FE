@@ -1,38 +1,40 @@
 import { ClientCategoryResponse, ClientListedProductResponse } from 'types';
 import { MessageResponse } from 'models/Message';
 
+//dummy data :>>>
 class MockUtils {
   static featuredCategories: ClientCategoryResponse[] = [
     {
-      categoryName: 'Ấm Trà Đơn',
-      categorySlug: 'am-tra-don',
+      categoryName: 'Máy Chơi Game Nintendo',
+      categorySlug: 'may-choi-game-nintendo',
       categoryChildren: [],
     },
     {
-      categoryName: 'Bộ Ấm Chén Trà Du Lịch',
-      categorySlug: 'bo-am-chen-tra-du-lich',
+      categoryName: 'Đồ Sưu Tầm Pokémon',
+      categorySlug: 'do-suu-tam-pokemon',
       categoryChildren: [],
     },
     {
-      categoryName: 'Dụng Cụ Pha Trà',
-      categorySlug: 'bep-dien-va-dung-cu-pha-tra',
+      categoryName: 'Mô Hình Zelda & Hyrule',
+      categorySlug: 'mo-hinh-zelda-hyrule',
       categoryChildren: [],
     },
     {
-      categoryName: 'Tượng Và Đồ Phong Thủy',
-      categorySlug: 'tuong-va-do-phong-thuy',
+      categoryName: 'Phụ Kiện Game Thủ',
+      categorySlug: 'phu-kien-game-thu',
       categoryChildren: [],
     },
     {
-      categoryName: 'Ấm Chén Phun Phụ Kiện',
-      categorySlug: 'bo-am-chen-full-phu-kien',
+      categoryName: 'Trang Phục hóa Trang',
+      categorySlug: 'trang-phuc-hoa-trang',
       categoryChildren: [],
     },
     {
-      categoryName: 'Trà Hảo Hạng',
-      categorySlug: 'tra-hao-hang',
+      categoryName: 'Sách Tranh & Artbook Game',
+      categorySlug: 'sach-tranh-artbook-game',
       categoryChildren: [],
     },
+
     //,
     // {
     //   categoryName: 'PC',

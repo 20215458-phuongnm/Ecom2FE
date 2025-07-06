@@ -8,7 +8,7 @@ export abstract class Configs {
   static createTitle: string;
   static updateTitle: string;
   static manageTitle: string;
-  static manageTitleLinks: TitleLink[];
+  static manageTitleLinks: TitleLink[]; //bánh mì
   protected static _rawProperties: EntityPropertySchema;
   static properties: EntityPropertySchema;
   static initialCreateUpdateFormValues: object;

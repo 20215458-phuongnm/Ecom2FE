@@ -1,3 +1,4 @@
+//đường dẫn API cho quản trị viên
 class ManagerPath {
   static ADDRESS = '/admin/address';
   static PROVINCE = '/admin/address/province';

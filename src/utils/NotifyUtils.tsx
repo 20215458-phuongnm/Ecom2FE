@@ -2,6 +2,7 @@ import React from 'react';
 import { showNotification } from '@mantine/notifications';
 import { Check, X } from 'tabler-icons-react';
 
+//hiển thị thông báo 
 class NotifyUtils {
   static simple = (message: React.ReactNode) => {
     showNotification({

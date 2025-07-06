@@ -3,6 +3,7 @@ import ApplicationConstants from './ApplicationConstants';
 const apiPath = ApplicationConstants.API_PATH;
 const clientApiPath = ApplicationConstants.CLIENT_API_PATH;
 
+// ResourceURL class định nghĩa các URL tài nguyên cho API
 class ResourceURL {
   // ADMIN
   static ADDRESS = apiPath + '/addresses';

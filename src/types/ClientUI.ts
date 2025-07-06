@@ -8,6 +8,8 @@ import { RoomResponse } from 'models/Room';
 import { MessageResponse } from 'models/Message';
 import { RewardType } from 'models/RewardStrategy';
 
+//Tập hợp các kiểu dữ liệu dùng chung cho giao diện người dùng (Client UI)
+
 // CATEGORY
 
 export interface ClientCategoryResponse {

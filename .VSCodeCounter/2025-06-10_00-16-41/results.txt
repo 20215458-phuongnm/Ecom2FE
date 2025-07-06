@@ -1,0 +1,678 @@
+Date : 2025-06-10 00:16:41
+Directory : e:\dowload 2\MyGameMPFE\mygamefe
+Total : 515 files,  54170 codes, 943 comments, 4296 blanks, all 59409 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| TypeScript JSX     |        215 |     25,037 |        369 |      2,504 |     27,910 |
+| JSON               |          3 |     16,330 |          0 |          2 |     16,332 |
+| TypeScript         |        291 |     12,676 |        500 |      1,756 |     14,932 |
+| PostCSS            |          2 |         53 |         51 |         12 |        116 |
+| JSON with Comments |          1 |         27 |          0 |          0 |         27 |
+| Markdown           |          1 |         26 |          0 |         21 |         47 |
+| HTML               |          1 |         20 |         23 |          1 |         44 |
+| XML                |          1 |          1 |          0 |          0 |          1 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                        |        515 |     54,170 |        943 |      4,296 |     59,409 |
+| . (Files)                                                                                                |          4 |     16,358 |          0 |         22 |     16,380 |
+| public                                                                                                   |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                                      |        509 |     37,767 |        920 |      4,272 |     42,959 |
+| src (Files)                                                                                              |          9 |        422 |        104 |         28 |        554 |
+| src\components                                                                                           |         61 |      4,577 |        192 |        523 |      5,292 |
+| src\components (Files)                                                                                   |          1 |         92 |         10 |         20 |        122 |
+| src\components\AddVariantsModal                                                                          |          1 |         56 |          0 |          6 |         62 |
+| src\components\AdminError                                                                                |          1 |         19 |          0 |          3 |         22 |
+| src\components\ClientCarousel                                                                            |          1 |        109 |          1 |          9 |        119 |
+| src\components\ClientError                                                                               |          1 |         29 |          0 |          3 |         32 |
+| src\components\ClientFooter                                                                              |          1 |        180 |          0 |          8 |        188 |
+| src\components\ClientHeader                                                                              |          2 |        505 |         28 |         43 |        576 |
+| src\components\ClientProductCard                                                                         |          1 |        204 |          0 |         12 |        216 |
+| src\components\ClientUserNavbar                                                                          |          1 |         35 |          1 |          5 |         41 |
+| src\components\CreateUpdateTitle                                                                         |          1 |         27 |          0 |          4 |         31 |
+| src\components\DefaultHeader                                                                             |          1 |        140 |          8 |         18 |        166 |
+| src\components\DefaultNavbar                                                                             |          2 |        284 |         98 |         22 |        404 |
+| src\components\DefaultPropertyPanel                                                                      |          1 |         41 |         13 |          4 |         58 |
+| src\components\ElectroLogo                                                                               |          1 |          9 |          2 |          5 |         16 |
+| src\components\EntityDetailTable                                                                         |          1 |         35 |          0 |          7 |         42 |
+| src\components\EntityFinder                                                                              |          1 |        148 |          0 |         12 |        160 |
+| src\components\FilterCriteriaRow                                                                         |          2 |        190 |          0 |         24 |        214 |
+| src\components\FilterPanel                                                                               |          2 |         50 |          0 |         11 |         61 |
+| src\components\FilterPanelHeader                                                                         |          1 |         15 |          0 |          5 |         20 |
+| src\components\FilterPanelHeaderLeft                                                                     |          1 |         23 |          0 |          5 |         28 |
+| src\components\FilterPanelHeaderRight                                                                    |          2 |         87 |          0 |         15 |        102 |
+| src\components\FilterPanelMain                                                                           |          1 |         15 |          0 |          4 |         19 |
+| src\components\FilterPanelMainLeft                                                                       |          2 |         58 |          0 |         12 |         70 |
+| src\components\FilterPanelMainRight                                                                      |          2 |         62 |          0 |         13 |         75 |
+| src\components\FloatingCodeFrame                                                                         |          1 |         24 |          0 |          5 |         29 |
+| src\components\LoadingMiddleware                                                                         |          1 |         46 |          5 |         11 |         62 |
+| src\components\ManageHeader                                                                              |          1 |         15 |          0 |          5 |         20 |
+| src\components\ManageHeaderButtons                                                                       |          2 |         90 |          0 |         13 |        103 |
+| src\components\ManageHeaderTitle                                                                         |          1 |         35 |          0 |          6 |         41 |
+| src\components\ManageMain                                                                                |          1 |         46 |          0 |          7 |         53 |
+| src\components\ManagePagination                                                                          |          2 |         89 |          0 |         13 |        102 |
+| src\components\ManageTable                                                                               |          3 |        211 |          0 |         24 |        235 |
+| src\components\ProductImagesDropzone                                                                     |          1 |        321 |          1 |         20 |        342 |
+| src\components\ProductProperties                                                                         |          1 |         51 |          0 |          9 |         60 |
+| src\components\ProductPropertyRow                                                                        |          1 |        117 |          0 |         14 |        131 |
+| src\components\ProductSpecificationRow                                                                   |          1 |        106 |          0 |         13 |        119 |
+| src\components\ProductSpecifications                                                                     |          1 |         51 |          0 |          9 |         60 |
+| src\components\ProductVariantRow                                                                         |          1 |        102 |          0 |          9 |        111 |
+| src\components\ProductVariants                                                                           |          1 |         80 |          0 |         10 |         90 |
+| src\components\ProductVariantsForUpdate                                                                  |          1 |        118 |          0 |         14 |        132 |
+| src\components\ProtectedRoute                                                                            |          1 |         34 |          0 |          5 |         39 |
+| src\components\ReviewStarGroup                                                                           |          1 |         19 |          0 |          4 |         23 |
+| src\components\ScrollToTop                                                                               |          1 |         14 |          1 |          5 |         20 |
+| src\components\SearchPanel                                                                               |          2 |        109 |         24 |         17 |        150 |
+| src\components\SortCriteriaRow                                                                           |          2 |        108 |          0 |         15 |        123 |
+| src\components\VariantFinder                                                                             |          1 |        125 |          0 |         11 |        136 |
+| src\components\VariantTable                                                                              |          1 |        166 |          0 |          6 |        172 |
+| src\components\VariantTablePopover                                                                       |          1 |         87 |          0 |          8 |         95 |
+| src\constants                                                                                            |          4 |        188 |          3 |         40 |        231 |
+| src\hooks                                                                                                |         14 |        268 |          0 |         57 |        325 |
+| src\models                                                                                               |         56 |      1,132 |          3 |        207 |      1,342 |
+| src\pages                                                                                                |        341 |     29,835 |        150 |      3,188 |     33,173 |
+| src\pages (Files)                                                                                        |          4 |        449 |          1 |         47 |        497 |
+| src\pages\address                                                                                        |          7 |        470 |          0 |         53 |        523 |
+| src\pages\admin-account                                                                                  |          2 |         81 |          0 |         16 |         97 |
+| src\pages\admin-notification                                                                             |          2 |         17 |          0 |          6 |         23 |
+| src\pages\admin-signin                                                                                   |          2 |         99 |          0 |         20 |        119 |
+| src\pages\brand                                                                                          |          7 |        411 |          0 |         56 |        467 |
+| src\pages\category                                                                                       |          7 |        526 |          0 |         57 |        583 |
+| src\pages\chat                                                                                           |          2 |        167 |          0 |         20 |        187 |
+| src\pages\client-all-categories                                                                          |          2 |        127 |          1 |         14 |        142 |
+| src\pages\client-cart                                                                                    |          2 |        653 |          0 |         65 |        718 |
+| src\pages\client-category                                                                                |          4 |        398 |          6 |         55 |        459 |
+| src\pages\client-chat                                                                                    |          2 |        272 |          0 |         32 |        304 |
+| src\pages\client-forgot-password                                                                         |          3 |        164 |          0 |         27 |        191 |
+| src\pages\client-home                                                                                    |          6 |        296 |         73 |         40 |        409 |
+| src\pages\client-notification                                                                            |          2 |        271 |          0 |         33 |        304 |
+| src\pages\client-order                                                                                   |          2 |        232 |          0 |         29 |        261 |
+| src\pages\client-order-detail                                                                            |          2 |        569 |          8 |         54 |        631 |
+| src\pages\client-payment-cancel                                                                          |          2 |         27 |          3 |          8 |         38 |
+| src\pages\client-payment-success                                                                         |          2 |         27 |          3 |          8 |         38 |
+| src\pages\client-preorder                                                                                |          2 |        273 |          0 |         32 |        305 |
+| src\pages\client-product                                                                                 |          7 |        637 |          5 |         69 |        711 |
+| src\pages\client-review                                                                                  |          2 |        289 |          1 |         34 |        324 |
+| src\pages\client-reward                                                                                  |          2 |        148 |          0 |         22 |        170 |
+| src\pages\client-search                                                                                  |          2 |        153 |          0 |         19 |        172 |
+| src\pages\client-setting                                                                                 |          2 |        108 |          0 |         11 |        119 |
+| src\pages\client-setting-email                                                                           |          2 |         90 |          0 |         14 |        104 |
+| src\pages\client-setting-password                                                                        |          2 |        110 |          0 |         13 |        123 |
+| src\pages\client-setting-personal                                                                        |          2 |        212 |          1 |         18 |        231 |
+| src\pages\client-setting-phone                                                                           |          2 |         90 |          1 |         14 |        105 |
+| src\pages\client-signin                                                                                  |          2 |        184 |          8 |         29 |        221 |
+| src\pages\client-signup                                                                                  |          2 |        487 |          1 |         50 |        538 |
+| src\pages\client-user                                                                                    |          2 |        149 |          0 |         18 |        167 |
+| src\pages\client-wishlist                                                                                |          2 |        199 |          0 |         26 |        225 |
+| src\pages\count                                                                                          |          7 |        663 |          0 |         74 |        737 |
+| src\pages\customer                                                                                       |          7 |      1,082 |          0 |         62 |      1,144 |
+| src\pages\customer-group                                                                                 |          7 |        452 |          0 |         56 |        508 |
+| src\pages\customer-resource                                                                              |          7 |        452 |          0 |         56 |        508 |
+| src\pages\customer-status                                                                                |          7 |        452 |          0 |         56 |        508 |
+| src\pages\department                                                                                     |          7 |        364 |          0 |         57 |        421 |
+| src\pages\destination                                                                                    |          7 |        586 |          0 |         57 |        643 |
+| src\pages\district                                                                                       |          7 |        415 |          0 |         53 |        468 |
+| src\pages\docket                                                                                         |          7 |        926 |          1 |         85 |      1,012 |
+| src\pages\docket-reason                                                                                  |          7 |        353 |          0 |         56 |        409 |
+| src\pages\employee                                                                                       |          7 |      1,322 |          1 |         74 |      1,397 |
+| src\pages\guarantee                                                                                      |          7 |        378 |          0 |         56 |        434 |
+| src\pages\inventory                                                                                      |          3 |        173 |          4 |         19 |        196 |
+| src\pages\job-level                                                                                      |          7 |        353 |          0 |         56 |        409 |
+| src\pages\job-title                                                                                      |          7 |        353 |          0 |         56 |        409 |
+| src\pages\job-type                                                                                       |          7 |        353 |          0 |         56 |        409 |
+| src\pages\office                                                                                         |          7 |        566 |          0 |         58 |        624 |
+| src\pages\order                                                                                          |          7 |      1,363 |          2 |         98 |      1,463 |
+| src\pages\order-cancellation-reason                                                                      |          7 |        380 |          0 |         56 |        436 |
+| src\pages\order-resource                                                                                 |          7 |        525 |          0 |         57 |        582 |
+| src\pages\payment-method                                                                                 |          3 |        163 |          0 |         28 |        191 |
+| src\pages\product                                                                                        |          7 |      1,596 |         29 |         79 |      1,704 |
+| src\pages\promotion                                                                                      |          7 |        672 |          0 |         71 |        743 |
+| src\pages\property                                                                                       |          7 |        411 |          0 |         56 |        467 |
+| src\pages\province                                                                                       |          7 |        321 |          0 |         52 |        373 |
+| src\pages\purchase-order                                                                                 |          7 |        829 |          0 |         78 |        907 |
+| src\pages\review                                                                                         |          3 |        366 |          0 |         36 |        402 |
+| src\pages\reward-strategy                                                                                |          3 |        224 |          0 |         34 |        258 |
+| src\pages\role                                                                                           |          7 |        386 |          0 |         56 |        442 |
+| src\pages\specification                                                                                  |          7 |        411 |          0 |         56 |        467 |
+| src\pages\supplier                                                                                       |          7 |        877 |          0 |         57 |        934 |
+| src\pages\tag                                                                                            |          7 |        386 |          0 |         56 |        442 |
+| src\pages\transfer                                                                                       |          7 |        712 |          0 |         73 |        785 |
+| src\pages\unit                                                                                           |          7 |        353 |          0 |         56 |        409 |
+| src\pages\user                                                                                           |          7 |        872 |          1 |         63 |        936 |
+| src\pages\voucher                                                                                        |          2 |         21 |          0 |          6 |         27 |
+| src\pages\ward                                                                                           |          1 |         12 |          0 |          3 |         15 |
+| src\pages\warehouse                                                                                      |          7 |        594 |          0 |         57 |        651 |
+| src\pages\waybill                                                                                        |          7 |        733 |          0 |         64 |        797 |
+| src\stores                                                                                               |          8 |        378 |          6 |         55 |        439 |
+| src\types                                                                                                |          9 |        342 |         15 |         74 |        431 |
+| src\utils                                                                                                |          7 |        625 |        447 |        100 |      1,172 |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                 | language           | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| e:\dowload 2\MyGameMPFE\mygamefe\README.md                                                               | Markdown           |         26 |          0 |         21 |         47 |
+| e:\dowload 2\MyGameMPFE\mygamefe\package-lock.json                                                       | JSON               |     16,228 |          0 |          1 |     16,229 |
+| e:\dowload 2\MyGameMPFE\mygamefe\package.json                                                            | JSON               |         77 |          0 |          0 |         77 |
+| e:\dowload 2\MyGameMPFE\mygamefe\public\index.html                                                       | HTML               |         20 |         23 |          1 |         44 |
+| e:\dowload 2\MyGameMPFE\mygamefe\public\manifest.json                                                    | JSON               |         25 |          0 |          1 |         26 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\App.css                                                             | PostCSS            |          0 |         38 |          1 |         39 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\App.test.tsx                                                        | TypeScript JSX     |          8 |          0 |          2 |         10 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\App.tsx                                                             | TypeScript JSX     |        331 |         45 |          5 |        381 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\AddVariantsModal\AddVariantsModal.tsx                    | TypeScript JSX     |         56 |          0 |          6 |         62 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\AdminError\AdminError.tsx                                | TypeScript JSX     |         19 |          0 |          3 |         22 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientCarousel\ClientCarousel.tsx                        | TypeScript JSX     |        109 |          1 |          9 |        119 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientError\ClientError.tsx                              | TypeScript JSX     |         29 |          0 |          3 |         32 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientFooter\ClientFooter.tsx                            | TypeScript JSX     |        180 |          0 |          8 |        188 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientHeader\CategoryMenu.tsx                            | TypeScript JSX     |        124 |          1 |         10 |        135 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientHeader\ClientHeader.tsx                            | TypeScript JSX     |        381 |         27 |         33 |        441 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientProductCard\ClientProductCard.tsx                  | TypeScript JSX     |        204 |          0 |         12 |        216 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ClientUserNavbar\ClientUserNavbar.tsx                    | TypeScript JSX     |         35 |          1 |          5 |         41 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\CreateUpdateTitle\CreateUpdateTitle.tsx                  | TypeScript JSX     |         27 |          0 |          4 |         31 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\DefaultHeader\DefaultHeader.tsx                          | TypeScript JSX     |        140 |          8 |         18 |        166 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\DefaultNavbar\DefaultNavbar.styles.ts                    | TypeScript         |         66 |          0 |         13 |         79 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\DefaultNavbar\DefaultNavbar.tsx                          | TypeScript JSX     |        218 |         98 |          9 |        325 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\DefaultPropertyPanel\DefaultPropertyPanel.tsx            | TypeScript JSX     |         41 |         13 |          4 |         58 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ElectroLogo\ElectroLogo.tsx                              | TypeScript JSX     |          9 |          2 |          5 |         16 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\EntityDetailTable\EntityDetailTable.tsx                  | TypeScript JSX     |         35 |          0 |          7 |         42 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\EntityFinder\EntityFinder.tsx                            | TypeScript JSX     |        148 |          0 |         12 |        160 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterCriteriaRow\FilterCriteriaRow.tsx                  | TypeScript JSX     |        128 |          0 |          9 |        137 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterCriteriaRow\FilterCriteriaRow.vm.ts                | TypeScript         |         62 |          0 |         15 |         77 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelHeaderLeft\FilterPanelHeaderLeft.tsx          | TypeScript JSX     |         23 |          0 |          5 |         28 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelHeaderRight\FilterPanelHeaderRight.tsx        | TypeScript JSX     |         34 |          0 |          5 |         39 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelHeaderRight\FilterPanelHeaderRight.vm.ts      | TypeScript         |         53 |          0 |         10 |         63 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelHeader\FilterPanelHeader.tsx                  | TypeScript JSX     |         15 |          0 |          5 |         20 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelMainLeft\FilterPanelMainLeft.tsx              | TypeScript JSX     |         38 |          0 |          6 |         44 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelMainLeft\FilterPanelMainLeft.vm.ts            | TypeScript         |         20 |          0 |          6 |         26 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelMainRight\FilterPanelMainRight.tsx            | TypeScript JSX     |         38 |          0 |          6 |         44 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelMainRight\FilterPanelMainRight.vm.ts          | TypeScript         |         24 |          0 |          7 |         31 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanelMain\FilterPanelMain.tsx                      | TypeScript JSX     |         15 |          0 |          4 |         19 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanel\FilterPanel.styles.ts                        | TypeScript         |         12 |          0 |          3 |         15 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FilterPanel\FilterPanel.tsx                              | TypeScript JSX     |         38 |          0 |          8 |         46 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\FloatingCodeFrame\FloatingCodeFrame.tsx                  | TypeScript JSX     |         24 |          0 |          5 |         29 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\LoadingMiddleware\LoadingMiddleware.tsx                  | TypeScript JSX     |         46 |          5 |         11 |         62 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageHeaderButtons\ManageHeaderButtons.tsx              | TypeScript JSX     |         35 |          0 |          5 |         40 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageHeaderButtons\ManageHeaderButtons.vm.tsx           | TypeScript JSX     |         55 |          0 |          8 |         63 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageHeaderTitle\ManageHeaderTitle.tsx                  | TypeScript JSX     |         35 |          0 |          6 |         41 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageHeader\ManageHeader.tsx                            | TypeScript JSX     |         15 |          0 |          5 |         20 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageMain\ManageMain.tsx                                | TypeScript JSX     |         46 |          0 |          7 |         53 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManagePagination\ManagePagination.tsx                    | TypeScript JSX     |         60 |          0 |          7 |         67 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManagePagination\ManagePagination.vm.ts                  | TypeScript         |         29 |          0 |          6 |         35 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageTable\ManageTable.styles.ts                        | TypeScript         |         12 |          0 |          3 |         15 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageTable\ManageTable.tsx                              | TypeScript JSX     |        111 |          0 |          9 |        120 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ManageTable\ManageTable.vm.tsx                           | TypeScript JSX     |         88 |          0 |         12 |        100 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductImagesDropzone\ProductImagesDropzone.tsx          | TypeScript JSX     |        321 |          1 |         20 |        342 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductProperties\ProductProperties.tsx                  | TypeScript JSX     |         51 |          0 |          9 |         60 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductPropertyRow\ProductPropertyRow.tsx                | TypeScript JSX     |        117 |          0 |         14 |        131 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductSpecificationRow\ProductSpecificationRow.tsx      | TypeScript JSX     |        106 |          0 |         13 |        119 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductSpecifications\ProductSpecifications.tsx          | TypeScript JSX     |         51 |          0 |          9 |         60 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductVariantRow\ProductVariantRow.tsx                  | TypeScript JSX     |        102 |          0 |          9 |        111 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductVariantsForUpdate\ProductVariantsForUpdate.tsx    | TypeScript JSX     |        118 |          0 |         14 |        132 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProductVariants\ProductVariants.tsx                      | TypeScript JSX     |         80 |          0 |         10 |         90 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ProtectedRoute\ProtectedRoute.tsx                        | TypeScript JSX     |         34 |          0 |          5 |         39 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ReviewStarGroup\ReviewStarGroup.tsx                      | TypeScript JSX     |         19 |          0 |          4 |         23 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\ScrollToTop\ScrollToTop.tsx                              | TypeScript JSX     |         14 |          1 |          5 |         20 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\SearchPanel\SearchPanel.tsx                              | TypeScript JSX     |         47 |         24 |          5 |         76 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\SearchPanel\SearchPanel.vm.ts                            | TypeScript         |         62 |          0 |         12 |         74 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\SortCriteriaRow\SortCriteriaRow.tsx                      | TypeScript JSX     |         63 |          0 |          5 |         68 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\SortCriteriaRow\SortCriteriaRow.vm.ts                    | TypeScript         |         45 |          0 |         10 |         55 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\VariantFinder\VariantFinder.tsx                          | TypeScript JSX     |        125 |          0 |         11 |        136 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\VariantTablePopover\VariantTablePopover.tsx              | TypeScript JSX     |         87 |          0 |          8 |         95 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\VariantTable\VariantTable.tsx                            | TypeScript JSX     |        166 |          0 |          6 |        172 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\components\index.ts                                                 | TypeScript         |         92 |         10 |         20 |        122 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\constants\ApplicationConstants.ts                                   | TypeScript         |         17 |          0 |          4 |         21 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\constants\ManagerPath.ts                                            | TypeScript         |         48 |          0 |         13 |         61 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\constants\ResourceURL.ts                                            | TypeScript         |         90 |          3 |         18 |        111 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\constants\Titles.ts                                                 | TypeScript         |         33 |          0 |          5 |         38 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-create-api.ts                                             | TypeScript         |         13 |          0 |          3 |         16 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-create-preorder-api.tsx                                   | TypeScript JSX     |         24 |          0 |          3 |         27 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-create-wish-api.tsx                                       | TypeScript JSX     |         24 |          0 |          3 |         27 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-delete-by-id-api.ts                                       | TypeScript         |         17 |          0 |          4 |         21 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-delete-by-ids-api.ts                                      | TypeScript         |         17 |          0 |          4 |         21 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-get-all-api.ts                                            | TypeScript         |         41 |          0 |          6 |         47 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-get-by-id-api.ts                                          | TypeScript         |         22 |          0 |          3 |         25 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-init-filter-panel-state.ts                                | TypeScript         |         10 |          0 |          4 |         14 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-reset-manage-page-state.ts                                | TypeScript         |          9 |          0 |          4 |         13 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-save-cart-api.tsx                                         | TypeScript JSX     |         22 |          0 |          5 |         27 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-select-address.ts                                         | TypeScript         |         25 |          0 |          6 |         31 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-title.ts                                                  | TypeScript         |         11 |          0 |          5 |         16 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-update-api.ts                                             | TypeScript         |         18 |          0 |          4 |         22 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\hooks\use-upload-multiple-images-api.ts                             | TypeScript         |         15 |          0 |          3 |         18 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\index.css                                                           | PostCSS            |         53 |         13 |         11 |         77 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\index.tsx                                                           | TypeScript JSX     |         15 |          3 |          4 |         22 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\logo.svg                                                            | XML                |          1 |          0 |          0 |          1 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Address.ts                                                   | TypeScript         |         18 |          0 |          5 |         23 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Authentication.ts                                            | TypeScript         |          9 |          0 |          2 |         11 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\BaseResponse.ts                                              | TypeScript         |          6 |          0 |          2 |          8 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Brand.ts                                                     | TypeScript         |         13 |          0 |          3 |         16 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Category.ts                                                  | TypeScript         |         25 |          0 |          4 |         29 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Count.ts                                                     | TypeScript         |         17 |          0 |          3 |         20 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\CountVariant.ts                                              | TypeScript         |         30 |          0 |          6 |         36 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Customer.ts                                                  | TypeScript         |         17 |          0 |          3 |         20 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\CustomerGroup.ts                                             | TypeScript         |         15 |          0 |          3 |         18 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\CustomerResource.ts                                          | TypeScript         |         15 |          0 |          3 |         18 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\CustomerStatus.ts                                            | TypeScript         |         15 |          0 |          3 |         18 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Department.ts                                                | TypeScript         |          9 |          0 |          3 |         12 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Destination.ts                                               | TypeScript         |         16 |          0 |          3 |         19 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\District.ts                                                  | TypeScript         |         12 |          0 |          3 |         15 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Docket.ts                                                    | TypeScript         |         34 |          0 |          5 |         39 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\DocketReason.ts                                              | TypeScript         |          9 |          0 |          3 |         12 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\DocketVariant.ts                                             | TypeScript         |         28 |          0 |          6 |         34 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\DocketVariantEliminatedResponse.ts                           | TypeScript         |         24 |          0 |          5 |         29 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\DocketVariantExtended.ts                                     | TypeScript         |         32 |          0 |          6 |         38 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Employee.ts                                                  | TypeScript         |         23 |          0 |          3 |         26 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Guarantee.ts                                                 | TypeScript         |         11 |          0 |          3 |         14 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Image.ts                                                     | TypeScript         |         26 |          3 |          3 |         32 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\JobLevel.ts                                                  | TypeScript         |          9 |          0 |          3 |         12 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\JobTitle.ts                                                  | TypeScript         |          9 |          0 |          3 |         12 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\JobType.ts                                                   | TypeScript         |          9 |          0 |          3 |         12 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Message.ts                                                   | TypeScript         |         18 |          0 |          4 |         22 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Notification.ts                                              | TypeScript         |         28 |          0 |          4 |         32 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Office.ts                                                    | TypeScript         |         12 |          0 |          3 |         15 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Order.ts                                                     | TypeScript         |         48 |          0 |          3 |         51 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\OrderCancellationReason.ts                                   | TypeScript         |         11 |          0 |          3 |         14 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\OrderResource.ts                                             | TypeScript         |         16 |          0 |          3 |         19 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\OrderVariant.ts                                              | TypeScript         |         32 |          0 |          6 |         38 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\PaymentMethod.ts                                             | TypeScript         |         13 |          0 |          4 |         17 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Product.ts                                                   | TypeScript         |         79 |          0 |          8 |         87 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\ProductInventory.ts                                          | TypeScript         |         19 |          0 |          3 |         22 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Promotion.ts                                                 | TypeScript         |         22 |          0 |          4 |         26 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Property.ts                                                  | TypeScript         |         13 |          0 |          3 |         16 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Province.ts                                                  | TypeScript         |          9 |          0 |          3 |         12 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\PurchaseOrder.ts                                             | TypeScript         |         34 |          0 |          5 |         39 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\PurchaseOrderVariant.ts                                      | TypeScript         |         32 |          0 |          6 |         38 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Review.ts                                                    | TypeScript         |         26 |          0 |          5 |         31 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\RewardStrategy.ts                                            | TypeScript         |         15 |          0 |          4 |         19 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Role.ts                                                      | TypeScript         |         11 |          0 |          3 |         14 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Room.ts                                                      | TypeScript         |         17 |          0 |          4 |         21 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Specification.ts                                             | TypeScript         |         13 |          0 |          3 |         16 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Statistic.ts                                                 | TypeScript         |         18 |          0 |          2 |         20 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Supplier.ts                                                  | TypeScript         |         36 |          0 |          3 |         39 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Tag.ts                                                       | TypeScript         |         11 |          0 |          3 |         14 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Transfer.ts                                                  | TypeScript         |         14 |          0 |          3 |         17 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Unit.ts                                                      | TypeScript         |          9 |          0 |          3 |         12 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\User.ts                                                      | TypeScript         |         32 |          0 |          4 |         36 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Variant.ts                                                   | TypeScript         |         29 |          0 |          5 |         34 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\VariantInventory.ts                                          | TypeScript         |         25 |          0 |          4 |         29 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Ward.ts                                                      | TypeScript         |         12 |          0 |          3 |         15 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Warehouse.ts                                                 | TypeScript         |         14 |          0 |          3 |         17 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\models\Waybill.ts                                                   | TypeScript         |         33 |          0 |          4 |         37 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\Admin.tsx                                                     | TypeScript JSX     |         31 |          0 |          6 |         37 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\AdminDashboard.tsx                                            | TypeScript JSX     |        234 |          0 |         21 |        255 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\Client.tsx                                                    | TypeScript JSX     |         80 |          1 |         11 |         92 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\PageConfigs.ts                                                | TypeScript         |        104 |          0 |          9 |        113 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressConfigs.ts                                     | TypeScript         |         78 |          0 |          8 |         86 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressCreate.tsx                                     | TypeScript JSX     |         62 |          0 |          8 |         70 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressCreate.vm.ts                                   | TypeScript         |         56 |          0 |          7 |         63 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressManage.tsx                                     | TypeScript JSX     |        120 |          0 |         12 |        132 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressUpdate.tsx                                     | TypeScript JSX     |         74 |          0 |          9 |         83 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\AddressUpdate.vm.ts                                   | TypeScript         |         76 |          0 |          7 |         83 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\address\index.ts                                              | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-account\AdminAccount.tsx                                | TypeScript JSX     |         79 |          0 |         14 |         93 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-account\index.ts                                        | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-notification\AdminNotification.tsx                      | TypeScript JSX     |         15 |          0 |          4 |         19 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-notification\index.ts                                   | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-signin\AdminSignin.tsx                                  | TypeScript JSX     |         97 |          0 |         18 |        115 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\admin-signin\index.ts                                         | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandConfigs.ts                                         | TypeScript         |         53 |          0 |          8 |         61 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandCreate.tsx                                         | TypeScript JSX     |         64 |          0 |          8 |         72 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandCreate.vm.ts                                       | TypeScript         |         37 |          0 |          7 |         44 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandManage.tsx                                         | TypeScript JSX     |        118 |          0 |         14 |        132 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandUpdate.tsx                                         | TypeScript JSX     |         76 |          0 |          9 |         85 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\BrandUpdate.vm.ts                                       | TypeScript         |         59 |          0 |          8 |         67 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\brand\index.ts                                                | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryConfigs.ts                                   | TypeScript         |         75 |          0 |          8 |         83 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryCreate.tsx                                   | TypeScript JSX     |         81 |          0 |          8 |         89 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryCreate.vm.ts                                 | TypeScript         |         57 |          0 |          8 |         65 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryManage.tsx                                   | TypeScript JSX     |        135 |          0 |         14 |        149 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryUpdate.tsx                                   | TypeScript JSX     |         93 |          0 |          9 |        102 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\CategoryUpdate.vm.ts                                 | TypeScript         |         81 |          0 |          8 |         89 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\category\index.ts                                             | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\chat\ChatDashboard.tsx                                        | TypeScript JSX     |        165 |          0 |         18 |        183 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\chat\index.ts                                                 | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-all-categories\ClientAllCategories.tsx                 | TypeScript JSX     |        125 |          1 |         12 |        138 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-all-categories\index.ts                                | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-cart\ClientCart.tsx                                    | TypeScript JSX     |        651 |          0 |         63 |        714 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-cart\index.ts                                          | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-category\ClientCategory.tsx                            | TypeScript JSX     |        271 |          6 |         35 |        312 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-category\ClientCategoryProducts.tsx                    | TypeScript JSX     |        109 |          0 |         15 |        124 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-category\ClientCategorySkeleton.tsx                    | TypeScript JSX     |         16 |          0 |          3 |         19 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-category\index.ts                                      | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-chat\ClientChat.tsx                                    | TypeScript JSX     |        270 |          0 |         30 |        300 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-chat\index.ts                                          | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-forgot-password\ClientChangePassword.tsx               | TypeScript JSX     |         95 |          0 |         14 |        109 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-forgot-password\ClientForgotPassword.tsx               | TypeScript JSX     |         66 |          0 |         11 |         77 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-forgot-password\index.ts                               | TypeScript         |          3 |          0 |          2 |          5 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\ClientHome.tsx                                    | TypeScript JSX     |         24 |          0 |          5 |         29 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\ClientHomeBanner.tsx                              | TypeScript JSX     |        101 |         27 |          6 |        134 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\ClientHomeFeaturedCategories.tsx                  | TypeScript JSX     |         12 |         41 |          5 |         58 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\ClientHomeLatestProducts.tsx                      | TypeScript JSX     |         78 |          3 |         12 |         93 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\ClientHomeNewsletter.tsx                          | TypeScript JSX     |         79 |          2 |         10 |         91 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-home\index.ts                                          | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-notification\ClientNotification.tsx                    | TypeScript JSX     |        269 |          0 |         31 |        300 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-notification\index.ts                                  | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-order-detail\ClientOrderDetail.tsx                     | TypeScript JSX     |        567 |          8 |         52 |        627 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-order-detail\index.ts                                  | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-order\ClientOrder.tsx                                  | TypeScript JSX     |        230 |          0 |         27 |        257 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-order\index.ts                                         | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-payment-cancel\ClientPaymentCancel.tsx                 | TypeScript JSX     |         25 |          3 |          6 |         34 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-payment-cancel\index.ts                                | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-payment-success\ClientPaymentSuccess.tsx               | TypeScript JSX     |         25 |          3 |          6 |         34 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-payment-success\index.ts                               | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-preorder\ClientPreorder.tsx                            | TypeScript JSX     |        271 |          0 |         30 |        301 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-preorder\index.ts                                      | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProduct.tsx                              | TypeScript JSX     |         71 |          0 |         15 |         86 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProductDescription.tsx                   | TypeScript JSX     |         19 |          0 |          4 |         23 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProductIntro.tsx                         | TypeScript JSX     |        322 |          5 |         23 |        350 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProductRelatedProducts.tsx               | TypeScript JSX     |         26 |          0 |          4 |         30 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProductReviews.tsx                       | TypeScript JSX     |        154 |          0 |         16 |        170 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\ClientProductSpecification.tsx                 | TypeScript JSX     |         43 |          0 |          5 |         48 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-product\index.ts                                       | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-review\ClientReview.tsx                                | TypeScript JSX     |        287 |          1 |         32 |        320 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-review\index.ts                                        | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-reward\ClientReward.tsx                                | TypeScript JSX     |        146 |          0 |         20 |        166 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-reward\index.ts                                        | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-search\ClientSearch.tsx                                | TypeScript JSX     |        151 |          0 |         17 |        168 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-search\index.ts                                        | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-email\ClientSettingEmail.tsx                   | TypeScript JSX     |         88 |          0 |         12 |        100 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-email\index.ts                                 | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-password\ClientSettingPassword.tsx             | TypeScript JSX     |        108 |          0 |         11 |        119 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-password\index.ts                              | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-personal\ClientSettingPersonal.tsx             | TypeScript JSX     |        210 |          1 |         16 |        227 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-personal\index.ts                              | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-phone\ClientSettingPhone.tsx                   | TypeScript JSX     |         88 |          1 |         12 |        101 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting-phone\index.ts                                 | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting\ClientSetting.tsx                              | TypeScript JSX     |        106 |          0 |          9 |        115 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-setting\index.ts                                       | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-signin\ClientSignin.tsx                                | TypeScript JSX     |        182 |          8 |         27 |        217 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-signin\index.ts                                        | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-signup\ClientSignup.tsx                                | TypeScript JSX     |        485 |          1 |         48 |        534 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-signup\index.ts                                        | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-user\ClientUser.tsx                                    | TypeScript JSX     |        147 |          0 |         16 |        163 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-user\index.ts                                          | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-wishlist\ClientWishlist.tsx                            | TypeScript JSX     |        197 |          0 |         24 |        221 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\client-wishlist\index.ts                                      | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountConfigs.ts                                         | TypeScript         |         63 |          0 |          8 |         71 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountCreate.tsx                                         | TypeScript JSX     |         97 |          0 |          9 |        106 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountCreate.vm.ts                                       | TypeScript         |        110 |          0 |         14 |        124 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountManage.tsx                                         | TypeScript JSX     |        131 |          0 |         13 |        144 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountUpdate.tsx                                         | TypeScript JSX     |        109 |          0 |         10 |        119 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\CountUpdate.vm.ts                                       | TypeScript         |        149 |          0 |         18 |        167 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\count\index.ts                                                | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupConfigs.ts                        | TypeScript         |         60 |          0 |          8 |         68 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupCreate.tsx                        | TypeScript JSX     |         73 |          0 |          8 |         81 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupCreate.vm.ts                      | TypeScript         |         38 |          0 |          7 |         45 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupManage.tsx                        | TypeScript JSX     |        131 |          0 |         14 |        145 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupUpdate.tsx                        | TypeScript JSX     |         85 |          0 |          9 |         94 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\CustomerGroupUpdate.vm.ts                      | TypeScript         |         61 |          0 |          8 |         69 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-group\index.ts                                       | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceConfigs.ts                  | TypeScript         |         60 |          0 |          8 |         68 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceCreate.tsx                  | TypeScript JSX     |         73 |          0 |          8 |         81 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceCreate.vm.ts                | TypeScript         |         38 |          0 |          7 |         45 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceManage.tsx                  | TypeScript JSX     |        131 |          0 |         14 |        145 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceUpdate.tsx                  | TypeScript JSX     |         85 |          0 |          9 |         94 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\CustomerResourceUpdate.vm.ts                | TypeScript         |         61 |          0 |          8 |         69 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-resource\index.ts                                    | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusConfigs.ts                      | TypeScript         |         60 |          0 |          8 |         68 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusCreate.tsx                      | TypeScript JSX     |         73 |          0 |          8 |         81 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusCreate.vm.ts                    | TypeScript         |         38 |          0 |          7 |         45 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusManage.tsx                      | TypeScript JSX     |        131 |          0 |         14 |        145 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusUpdate.tsx                      | TypeScript JSX     |         85 |          0 |          9 |         94 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\CustomerStatusUpdate.vm.ts                    | TypeScript         |         61 |          0 |          8 |         69 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer-status\index.ts                                      | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerConfigs.ts                                   | TypeScript         |        183 |          0 |          9 |        192 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerCreate.tsx                                   | TypeScript JSX     |        177 |          0 |          8 |        185 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerCreate.vm.ts                                 | TypeScript         |        143 |          0 |         10 |        153 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerManage.tsx                                   | TypeScript JSX     |        211 |          0 |         14 |        225 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerUpdate.tsx                                   | TypeScript JSX     |        189 |          0 |          9 |        198 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\CustomerUpdate.vm.ts                                 | TypeScript         |        175 |          0 |         10 |        185 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\customer\index.ts                                             | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentConfigs.ts                               | TypeScript         |         40 |          0 |          8 |         48 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentCreate.tsx                               | TypeScript JSX     |         51 |          0 |          8 |         59 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentCreate.vm.ts                             | TypeScript         |         39 |          0 |          7 |         46 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentManage.tsx                               | TypeScript JSX     |        108 |          0 |         15 |        123 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentUpdate.tsx                               | TypeScript JSX     |         63 |          0 |          9 |         72 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\DepartmentUpdate.vm.ts                             | TypeScript         |         59 |          0 |          8 |         67 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\department\index.ts                                           | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationConfigs.ts                             | TypeScript         |         83 |          0 |          8 |         91 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationCreate.tsx                             | TypeScript JSX     |         91 |          0 |          8 |         99 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationCreate.vm.ts                           | TypeScript         |         73 |          0 |          8 |         81 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationManage.tsx                             | TypeScript JSX     |        135 |          0 |         14 |        149 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationUpdate.tsx                             | TypeScript JSX     |        103 |          0 |          9 |        112 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\DestinationUpdate.vm.ts                           | TypeScript         |         97 |          0 |          8 |        105 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\destination\index.ts                                          | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictConfigs.ts                                   | TypeScript         |         58 |          0 |          8 |         66 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictCreate.tsx                                   | TypeScript JSX     |         59 |          0 |          8 |         67 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictCreate.vm.ts                                 | TypeScript         |         41 |          0 |          7 |         48 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictManage.tsx                                   | TypeScript JSX     |        121 |          0 |         12 |        133 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictUpdate.tsx                                   | TypeScript JSX     |         71 |          0 |          9 |         80 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\DistrictUpdate.vm.ts                                 | TypeScript         |         61 |          0 |          7 |         68 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\district\index.ts                                             | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonConfigs.ts                          | TypeScript         |         40 |          0 |          8 |         48 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonCreate.tsx                          | TypeScript JSX     |         51 |          0 |          8 |         59 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonCreate.vm.ts                        | TypeScript         |         35 |          0 |          7 |         42 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonManage.tsx                          | TypeScript JSX     |        105 |          0 |         14 |        119 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonUpdate.tsx                          | TypeScript JSX     |         63 |          0 |          9 |         72 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\DocketReasonUpdate.vm.ts                        | TypeScript         |         55 |          0 |          8 |         63 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket-reason\index.ts                                        | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketConfigs.ts                                       | TypeScript         |         86 |          0 |          8 |         94 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketCreate.tsx                                       | TypeScript JSX     |        178 |          0 |         14 |        192 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketCreate.vm.ts                                     | TypeScript         |        127 |          0 |         14 |        141 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketManage.tsx                                       | TypeScript JSX     |        161 |          0 |         14 |        175 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketUpdate.tsx                                       | TypeScript JSX     |        199 |          1 |         15 |        215 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\DocketUpdate.vm.ts                                     | TypeScript         |        171 |          0 |         18 |        189 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\docket\index.ts                                               | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeConfigs.ts                                   | TypeScript         |        256 |          1 |          9 |        266 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeCreate.tsx                                   | TypeScript JSX     |        197 |          0 |          8 |        205 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeCreate.vm.ts                                 | TypeScript         |        173 |          0 |         10 |        183 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeManage.tsx                                   | TypeScript JSX     |        276 |          0 |         26 |        302 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeUpdate.tsx                                   | TypeScript JSX     |        209 |          0 |          9 |        218 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\EmployeeUpdate.vm.ts                                 | TypeScript         |        207 |          0 |         10 |        217 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\employee\index.ts                                             | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeConfigs.ts                                 | TypeScript         |         46 |          0 |          8 |         54 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeCreate.tsx                                 | TypeScript JSX     |         57 |          0 |          8 |         65 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeCreate.vm.ts                               | TypeScript         |         36 |          0 |          7 |         43 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeManage.tsx                                 | TypeScript JSX     |        109 |          0 |         14 |        123 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeUpdate.tsx                                 | TypeScript JSX     |         69 |          0 |          9 |         78 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\GuaranteeUpdate.vm.ts                               | TypeScript         |         57 |          0 |          8 |         65 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\guarantee\index.ts                                            | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\inventory\InventoryConfigs.ts                                 | TypeScript         |         10 |          0 |          3 |         13 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\inventory\InventoryManage.tsx                                 | TypeScript JSX     |        161 |          4 |         14 |        179 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\inventory\index.ts                                            | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelConfigs.ts                                  | TypeScript         |         40 |          0 |          8 |         48 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelCreate.tsx                                  | TypeScript JSX     |         51 |          0 |          8 |         59 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelCreate.vm.ts                                | TypeScript         |         35 |          0 |          7 |         42 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelManage.tsx                                  | TypeScript JSX     |        105 |          0 |         14 |        119 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelUpdate..tsx                                 | TypeScript JSX     |         63 |          0 |          9 |         72 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\JobLevelUpdate.vm.ts                                | TypeScript         |         55 |          0 |          8 |         63 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-level\index.ts                                            | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleConfigs.ts                                  | TypeScript         |         40 |          0 |          8 |         48 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleCreate.tsx                                  | TypeScript JSX     |         51 |          0 |          8 |         59 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleCreate.vm.ts                                | TypeScript         |         35 |          0 |          7 |         42 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleManage.tsx                                  | TypeScript JSX     |        105 |          0 |         14 |        119 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleUpdate.tsx                                  | TypeScript JSX     |         63 |          0 |          9 |         72 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\JobTitleUpdate.vm.ts                                | TypeScript         |         55 |          0 |          8 |         63 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-title\index.ts                                            | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeConfigs.ts                                    | TypeScript         |         40 |          0 |          8 |         48 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeCreate.tsx                                    | TypeScript JSX     |         51 |          0 |          8 |         59 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeCreate.vm.ts                                  | TypeScript         |         35 |          0 |          7 |         42 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeManage.tsx                                    | TypeScript JSX     |        105 |          0 |         14 |        119 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeUpdate.tsx                                    | TypeScript JSX     |         63 |          0 |          9 |         72 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\JobTypeUpdate.vm.ts                                  | TypeScript         |         55 |          0 |          8 |         63 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\job-type\index.ts                                             | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeConfigs.ts                                       | TypeScript         |         80 |          0 |          8 |         88 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeCreate.tsx                                       | TypeScript JSX     |         80 |          0 |          8 |         88 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeCreate.vm.ts                                     | TypeScript         |         75 |          0 |          8 |         83 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeManage.tsx                                       | TypeScript JSX     |        138 |          0 |         15 |        153 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeUpdate.tsx                                       | TypeScript JSX     |         92 |          0 |          9 |        101 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\OfficeUpdate.vm.ts                                     | TypeScript         |         97 |          0 |          8 |        105 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\office\index.ts                                               | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonConfigs.ts   | TypeScript         |         46 |          0 |          8 |         54 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonCreate.tsx   | TypeScript JSX     |         58 |          0 |          8 |         66 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonCreate.vm.ts | TypeScript         |         36 |          0 |          7 |         43 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonManage.tsx   | TypeScript JSX     |        109 |          0 |         14 |        123 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonUpdate.tsx   | TypeScript JSX     |         70 |          0 |          9 |         79 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\OrderCancellationReasonUpdate.vm.ts | TypeScript         |         57 |          0 |          8 |         65 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-cancellation-reason\index.ts                            | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceConfigs.ts                        | TypeScript         |         79 |          0 |          8 |         87 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceCreate.tsx                        | TypeScript JSX     |         76 |          0 |          8 |         84 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceCreate.vm.ts                      | TypeScript         |         54 |          0 |          8 |         62 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceManage.tsx                        | TypeScript JSX     |        148 |          0 |         14 |        162 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceUpdate.tsx                        | TypeScript JSX     |         88 |          0 |          9 |         97 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\OrderResourceUpdate.vm.ts                      | TypeScript         |         76 |          0 |          8 |         84 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order-resource\index.ts                                       | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderConfigs.tsx                                        | TypeScript JSX     |        233 |          0 |         12 |        245 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderCreate.tsx                                         | TypeScript JSX     |        267 |          1 |         15 |        283 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderCreate.vm.ts                                       | TypeScript         |        180 |          0 |         18 |        198 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderManage.tsx                                         | TypeScript JSX     |        162 |          0 |         13 |        175 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderUpdate.tsx                                         | TypeScript JSX     |        280 |          1 |         16 |        297 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\OrderUpdate.vm.ts                                       | TypeScript         |        237 |          0 |         22 |        259 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\order\index.ts                                                | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\payment-method\PaymentMethodConfigs.ts                        | TypeScript         |         23 |          0 |          3 |         26 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\payment-method\PaymentMethodManage.tsx                        | TypeScript JSX     |        138 |          0 |         23 |        161 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\payment-method\index.ts                                       | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductConfigs.ts                                     | TypeScript         |        263 |          4 |          8 |        275 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductCreate.tsx                                     | TypeScript JSX     |        229 |         10 |          8 |        247 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductCreate.vm.ts                                   | TypeScript         |        248 |          0 |         18 |        266 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductManage.tsx                                     | TypeScript JSX     |        302 |          0 |         15 |        317 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductUpdate.tsx                                     | TypeScript JSX     |        253 |         10 |         10 |        273 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\ProductUpdate.vm.ts                                   | TypeScript         |        297 |          5 |         18 |        320 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\product\index.ts                                              | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionConfigs.ts                                 | TypeScript         |         79 |          0 |          9 |         88 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionCreate.tsx                                 | TypeScript JSX     |        165 |          0 |         12 |        177 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionCreate.vm.ts                               | TypeScript         |         75 |          0 |         12 |         87 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionManage.tsx                                 | TypeScript JSX     |        124 |          0 |         14 |        138 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionUpdate.tsx                                 | TypeScript JSX     |        140 |          0 |         11 |        151 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\PromotionUpdate.vm.ts                               | TypeScript         |         85 |          0 |         11 |         96 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\promotion\index.ts                                            | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyConfigs.ts                                   | TypeScript         |         53 |          0 |          8 |         61 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyCreate.tsx                                   | TypeScript JSX     |         64 |          0 |          8 |         72 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyCreate.vm.ts                                 | TypeScript         |         37 |          0 |          7 |         44 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyManage.tsx                                   | TypeScript JSX     |        118 |          0 |         14 |        132 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyUpdate.tsx                                   | TypeScript JSX     |         76 |          0 |          9 |         85 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\PropertyUpdate.vm.ts                                 | TypeScript         |         59 |          0 |          8 |         67 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\property\index.ts                                             | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceConfigs.ts                                   | TypeScript         |         40 |          0 |          8 |         48 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceCreate.tsx                                   | TypeScript JSX     |         48 |          0 |          8 |         56 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceCreate.vm.ts                                 | TypeScript         |         23 |          0 |          6 |         29 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceManage.tsx                                   | TypeScript JSX     |        103 |          0 |         12 |        115 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceUpdate.tsx                                   | TypeScript JSX     |         60 |          0 |          9 |         69 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\ProvinceUpdate.vm.ts                                 | TypeScript         |         43 |          0 |          7 |         50 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\province\index.ts                                             | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderConfigs.ts                        | TypeScript         |         84 |          0 |          8 |         92 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderCreate.tsx                        | TypeScript JSX     |        117 |          0 |         11 |        128 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderCreate.vm.ts                      | TypeScript         |        134 |          0 |         14 |        148 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderManage.tsx                        | TypeScript JSX     |        183 |          0 |         13 |        196 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderUpdate.tsx                        | TypeScript JSX     |        129 |          0 |         12 |        141 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\PurchaseOrderUpdate.vm.ts                      | TypeScript         |        178 |          0 |         18 |        196 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\purchase-order\index.ts                                       | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\review\ReviewConfigs.ts                                       | TypeScript         |         15 |          0 |          3 |         18 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\review\ReviewManage.tsx                                       | TypeScript JSX     |        349 |          0 |         31 |        380 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\review\index.ts                                               | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\reward-strategy\RewardStrategyConfigs.ts                      | TypeScript         |         15 |          0 |          3 |         18 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\reward-strategy\RewardStrategyManage.tsx                      | TypeScript JSX     |        207 |          0 |         29 |        236 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\reward-strategy\index.ts                                      | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleConfigs.ts                                           | TypeScript         |         47 |          0 |          8 |         55 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleCreate.tsx                                           | TypeScript JSX     |         58 |          0 |          8 |         66 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleCreate.vm.ts                                         | TypeScript         |         36 |          0 |          7 |         43 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleManage.tsx                                           | TypeScript JSX     |        114 |          0 |         14 |        128 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleUpdate.tsx                                           | TypeScript JSX     |         70 |          0 |          9 |         79 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\RoleUpdate.vm.ts                                         | TypeScript         |         57 |          0 |          8 |         65 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\role\index.ts                                                 | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationConfigs.ts                         | TypeScript         |         53 |          0 |          8 |         61 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationCreate.tsx                         | TypeScript JSX     |         64 |          0 |          8 |         72 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationCreate.vm.ts                       | TypeScript         |         37 |          0 |          7 |         44 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationManage.tsx                         | TypeScript JSX     |        118 |          0 |         14 |        132 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationUpdate.tsx                         | TypeScript JSX     |         76 |          0 |          9 |         85 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\SpecificationUpdate.vm.ts                       | TypeScript         |         59 |          0 |          8 |         67 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\specification\index.ts                                        | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierConfigs.ts                                   | TypeScript         |        146 |          0 |          8 |        154 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierCreate.tsx                                   | TypeScript JSX     |        164 |          0 |          8 |        172 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierCreate.vm.ts                                 | TypeScript         |         85 |          0 |          8 |         93 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierManage.tsx                                   | TypeScript JSX     |        183 |          0 |         14 |        197 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierUpdate.tsx                                   | TypeScript JSX     |        176 |          0 |          9 |        185 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\SupplierUpdate.vm.ts                                 | TypeScript         |        119 |          0 |          8 |        127 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\supplier\index.ts                                             | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagConfigs.ts                                             | TypeScript         |         47 |          0 |          8 |         55 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagCreate.tsx                                             | TypeScript JSX     |         58 |          0 |          8 |         66 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagCreate.vm.ts                                           | TypeScript         |         36 |          0 |          7 |         43 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagManage.tsx                                             | TypeScript JSX     |        114 |          0 |         14 |        128 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagUpdate.tsx                                             | TypeScript JSX     |         70 |          0 |          9 |         79 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\TagUpdate.vm.ts                                           | TypeScript         |         57 |          0 |          8 |         65 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\tag\index.ts                                                  | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferConfigs.ts                                   | TypeScript         |         78 |          0 |          8 |         86 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferCreate.tsx                                   | TypeScript JSX     |        101 |          0 |          9 |        110 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferCreate.vm.ts                                 | TypeScript         |        113 |          0 |         13 |        126 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferManage.tsx                                   | TypeScript JSX     |        144 |          0 |         13 |        157 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferUpdate.tsx                                   | TypeScript JSX     |        113 |          0 |         10 |        123 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\TransferUpdate.vm.ts                                 | TypeScript         |        159 |          0 |         18 |        177 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\transfer\index.ts                                             | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitConfigs.ts                                           | TypeScript         |         40 |          0 |          8 |         48 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitCreate.tsx                                           | TypeScript JSX     |         51 |          0 |          8 |         59 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitCreate.vm.ts                                         | TypeScript         |         35 |          0 |          7 |         42 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitManage.tsx                                           | TypeScript JSX     |        105 |          0 |         14 |        119 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitUpdate.tsx                                           | TypeScript JSX     |         63 |          0 |          9 |         72 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\UnitUpdate.vm.ts                                         | TypeScript         |         55 |          0 |          8 |         63 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\unit\index.ts                                                 | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserConfigs.ts                                           | TypeScript         |        139 |          0 |          8 |        147 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserCreate.tsx                                           | TypeScript JSX     |        146 |          0 |          8 |        154 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserCreate.vm.ts                                         | TypeScript         |        103 |          0 |          9 |        112 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserManage.tsx                                           | TypeScript JSX     |        172 |          0 |         14 |        186 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserUpdate.tsx                                           | TypeScript JSX     |        159 |          0 |          9 |        168 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\UserUpdate.vm.ts                                         | TypeScript         |        149 |          1 |         13 |        163 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\user\index.ts                                                 | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\voucher\VoucherManage.tsx                                     | TypeScript JSX     |         19 |          0 |          4 |         23 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\voucher\index.ts                                              | TypeScript         |          2 |          0 |          2 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\ward\WardConfigs.ts                                           | TypeScript         |         12 |          0 |          3 |         15 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseConfigs.ts                                 | TypeScript         |        109 |          0 |          8 |        117 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseCreate.tsx                                 | TypeScript JSX     |         86 |          0 |          8 |         94 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseCreate.vm.ts                               | TypeScript         |         74 |          0 |          8 |         82 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseManage.tsx                                 | TypeScript JSX     |        126 |          0 |         14 |        140 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseUpdate.tsx                                 | TypeScript JSX     |         98 |          0 |          9 |        107 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\WarehouseUpdate.vm.ts                               | TypeScript         |         97 |          0 |          8 |        105 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\warehouse\index.ts                                            | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillConfigs.ts                                     | TypeScript         |         98 |          0 |         10 |        108 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillCreate.tsx                                     | TypeScript JSX     |        136 |          0 |         10 |        146 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillCreate.vm.ts                                   | TypeScript         |         45 |          0 |          7 |         52 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillManage.tsx                                     | TypeScript JSX     |        210 |          0 |         16 |        226 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillUpdate.tsx                                     | TypeScript JSX     |        169 |          0 |         11 |        180 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\WaybillUpdate.vm.ts                                   | TypeScript         |         71 |          0 |          8 |         79 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\pages\waybill\index.ts                                              | TypeScript         |          4 |          0 |          2 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\react-app-env.d.ts                                                  | TypeScript         |          0 |          1 |          1 |          2 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\reportWebVitals.ts                                                  | TypeScript         |         13 |          0 |          3 |         16 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\setupTests.ts                                                       | TypeScript         |          1 |          4 |          1 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\stores\create-admin-site-slice.ts                                   | TypeScript         |         13 |          0 |          5 |         18 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\stores\create-manage-page-slice.ts                                  | TypeScript         |         51 |          0 |          5 |         56 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-admin-auth-store.ts                                      | TypeScript         |         55 |          1 |         10 |         66 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-app-store.ts                                             | TypeScript         |         28 |          3 |          6 |         37 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-auth-store.ts                                            | TypeScript         |         77 |          2 |         10 |         89 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-client-category-store.ts                                 | TypeScript         |         59 |          0 |          6 |         65 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-client-site-store.ts                                     | TypeScript         |         29 |          0 |          6 |         35 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\stores\use-filter-panel-store.ts                                    | TypeScript         |         66 |          0 |          7 |         73 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\types\ClientUI.ts                                                   | TypeScript         |        278 |         15 |         62 |        355 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\types\CollectionWrapper.ts                                          | TypeScript         |          8 |          0 |          2 |         10 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\types\Configs.ts                                                    | TypeScript         |         15 |          0 |          2 |         17 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\types\EntityProperty.ts                                             | TypeScript         |         19 |          0 |          3 |         22 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\types\FileWithPreview.ts                                            | TypeScript         |          3 |          0 |          1 |          4 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\types\SelectOption.ts                                               | TypeScript         |          5 |          0 |          1 |          6 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\types\TitleLink.ts                                                  | TypeScript         |          4 |          0 |          1 |          5 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\types\Utility.ts                                                    | TypeScript         |          2 |          0 |          1 |          3 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\types\index.ts                                                      | TypeScript         |          8 |          0 |          1 |          9 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\utils\DateUtils.ts                                                  | TypeScript         |         19 |          0 |          7 |         26 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\utils\FetchUtils.ts                                                 | TypeScript         |        209 |         90 |         31 |        330 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\utils\FilterUtils.ts                                                | TypeScript         |        250 |          0 |         21 |        271 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\utils\MessageUtils.ts                                               | TypeScript         |          5 |          0 |          2 |          7 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\utils\MiscUtils.ts                                                  | TypeScript         |         74 |          3 |         26 |        103 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\utils\MockUtils.ts                                                  | TypeScript         |         37 |        354 |          8 |        399 |
+| e:\dowload 2\MyGameMPFE\mygamefe\src\utils\NotifyUtils.tsx                                               | TypeScript JSX     |         31 |          0 |          5 |         36 |
+| e:\dowload 2\MyGameMPFE\mygamefe\tsconfig.json                                                           | JSON with Comments |         27 |          0 |          0 |         27 |
+| Total                                                                                                    |                    |     54,170 |        943 |      4,296 |     59,409 |
++----------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

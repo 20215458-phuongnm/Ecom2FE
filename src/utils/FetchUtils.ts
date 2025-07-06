@@ -94,7 +94,8 @@ class FetchUtils {
   }
 
   /**
-   * Hàm getWithToken
+   * Hàm getWithToken, lấy token từ localStorage và thực hiện truy vấn GET với token đó
+   * Dùng cho các trường hợp cần xác thực người dùng (có token)
    * @param resourceUrl
    * @param requestParams
    * @param isAdmin

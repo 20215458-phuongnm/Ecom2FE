@@ -3,6 +3,7 @@ import { ProvinceResponse } from './Province';
 import { DistrictResponse } from './District';
 import { WardResponse } from './Ward';
 
+// Định nghĩa các kiểu dữ liệu cho address response và request
 export interface AddressResponse extends BaseResponse {
   line: string | null;
   province: ProvinceResponse | null;

@@ -1,3 +1,4 @@
+// Tạo schema cho các thuộc tính của entity trong hệ thống (form, table, etc...)
 export enum EntityPropertyType {
   STRING = 'string',
   NUMBER = 'number',
